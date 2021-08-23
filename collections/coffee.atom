@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.bycypher.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.bycypher.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.bycypher.com/collections/coffee.atom"/>
+  <title>Cypher Roastery</title>
+  <updated>2021-08-02T13:30:28+04:00</updated>
+  <author>
+    <name>Cypher Roastery</name>
+  </author>
+  <entry>
+    <id>https://www.bycypher.com/products/10159720961</id>
+    <published>2021-08-02T13:30:28+04:00</published>
+    <updated>2021-08-02T13:30:28+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/rise"/>
+    <title>RISE</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/RISE250G2021.png?v=1627891106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            60.00 - 95.00
+            <a href="https://www.bycypher.com/products/rise">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3><span style="color: #00b18f;" data-mce-style="color: #00b18f;"><strong>FARM HISTORY</strong></span></h3>
+<p>Finca El Platanar y Anexos is a family company whose members are fully committed to producing coffee of the highest quality and excellence, seeking a balance between productivity and sustainability of the environment in which it is grown. Its Owners are constantly seeking new technologies and farming techniques that benefit the productivity of plantations, without losing sight of the organoleptic characteristics of the harvested grains.</p>
+<p>All harvested coffee at Finca El Platanar y Anexos, involves a well-defined ripe fruit selection, making at the end of the day a thorough cleaning, to avoid sending immature cherries to the wet milling process.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<meta charset="utf-8">
+<p>Caramelized hazelnut, lemon tart, round &amp; velvety mouthfeel, long chocolate aftertaste</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin: </strong>Guatemala</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Region: </strong><span>Acatenango</span></p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Farm: </strong>Finca El Platanar y Anexos</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Altitude: </strong>1,600 - 1,900 m</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Varietal: </strong>Catuai, Caturra</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Process:</strong> Washed</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Type: </strong>Single Origin</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: left;" data-mce-style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-04_d920941a-7479-49ff-be89-6be29c70210b_600x600.png?v=1580972105" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Espresso Roast</s:tag>
+    <s:tag>Guatemala</s:tag>
+    <s:tag>Head-Start</s:tag>
+    <s:tag>Headstart</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>washed</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/10159720961</id>
+      <title>250g</title>
+      <s:price currency="AED">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/10159720961</id>
+      <title>500g</title>
+      <s:price currency="AED">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/1365662400612</id>
+    <published>2021-07-18T17:51:33+04:00</published>
+    <updated>2021-07-18T17:51:33+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/miel"/>
+    <title>MIEL</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/MIEL250G_727ecd49-3069-4d60-883e-8e32665805d4.png?v=1626616179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            60.00 - 95.00
+            <a href="https://www.bycypher.com/products/miel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span style="color: #00b18f;" data-mce-style="color: #00b18f;"><strong>FARM HISTORY</strong></span></h3>
+<p>El Salvador is known for having volcanos all over the country. The landscape has benefitted them in many ways, especially with its rich volcanic soils. Finca Loma de Paja happened to be on the hills of El Salvador's tallest volcano, that is the Ilamatepec Volano also known as the “Volcan de Santa Ana” which made its last eruption in 2005. The growing land range in altitudes from 1200MASL meters to 1850MASL meters. With it is rich in volcanic soil and the ideal varietals they are able to produce some of their country’s top-quality coffee.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;">
+<strong>CYPHERED PROFILE</strong><br>
+</h3>
+<meta charset="utf-8">
+<p>Chocolate, hazelnut, piquant acidity, smooth velvety mouthfeel, long sweet aftertaste</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin: </strong>El Salvador</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Region: </strong>Santa Ana, Ilamatepec Volcano</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Altitude: </strong>1,250 m</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Varietal: </strong>Red Bourbon</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Process: </strong>Honey</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<img src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-04_d920941a-7479-49ff-be89-6be29c70210b_600x600.png?v=1580972105"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>El Salvador</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Espresso Roast</s:tag>
+    <s:tag>Filter</s:tag>
+    <s:tag>Head-Start</s:tag>
+    <s:tag>Headstart</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Others</s:tag>
+    <s:tag>Red Bourbon</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1365662400612</id>
+      <title>250g</title>
+      <s:price currency="AED">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1365662400612</id>
+      <title>500g</title>
+      <s:price currency="AED">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4630744662091</id>
+    <published>2021-07-18T17:51:23+04:00</published>
+    <updated>2021-07-18T17:51:23+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/diego-samuel-villa-rosita"/>
+    <title>DIEGO SAMUEL VILLA ROSITA</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/VILLAROSITA2021250G.png?v=1626594025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            135.00 - 260.00
+            <a href="https://www.bycypher.com/products/diego-samuel-villa-rosita">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<p>Diego Samuel started with his coffee growing project in Finca El Paraiso in 2008. To him growing coffee was fascinating, he loved visiting his friend’s farms and see them growing coffee. His family owned a farm that was isolated so Diego saw the opportunity to grow coffee there. He began his project by utilizing 2.5 hectares of land. The coffee that was harvested was sold to local coffee cooperatives and that money helped finance his studies in Agricultural Enterprise Management.</p>
+<p>Meanwhile, he started building a network of fair and transparent coffee buyers. Luckily we were one of the first roasters that cupped and bought this coffee.</p>
+<p> </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p>Intense floral aroma, cherry, peach, juicy mouthfeel, hibiscus tea finish.</p>
+<p><strong style="color: #00b18f; text-transform: uppercase; font-size: 1.4em;">Facts</strong><br></p>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Colombia</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Cauca</p>
+<p style="margin-bottom: 2px;"><strong>Producer:</strong> Diego Samuel Bermudez</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,920 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal:</strong> Castillo</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Natural</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-02_c0ec40ae-c98e-4357-8ff1-f103c9afa5f9_600x600.png?v=1580969470" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Castillo</s:tag>
+    <s:tag>colombia</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>filter coffee</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Nobility</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4630744662091</id>
+      <title>250g</title>
+      <s:price currency="AED">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4630744662091</id>
+      <title>500g</title>
+      <s:price currency="AED">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6582943809611</id>
+    <published>2021-06-28T19:46:13+04:00</published>
+    <updated>2021-06-28T19:46:13+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/diego-samuel-flamboyant"/>
+    <title>DIEGO SAMUEL Flamboyant</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/FLAMBOYANT250G.png?v=1624777286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            135.00 - 260.00
+            <a href="https://www.bycypher.com/products/diego-samuel-flamboyant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<p>Diego Samuel started with his coffee growing project in Finca El Paraiso in 2008. To him growing coffee was fascinating, he loved visiting his friend’s farms and see them growing coffee. His family owned a farm that was isolated so Diego saw the opportunity to grow coffee there. He began his project by utilizing 2.5 hectares of land. The coffee that was harvested was sold to local coffee cooperatives and that money helped finance his studies in Agricultural Enterprise Management.</p>
+<p>Meanwhile, he started building a network of fair and transparent coffee buyers. Luckily we were one of the first roasters that cupped and bought this coffee. </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p>Fierce jasmine, white grapes, hints of peach, juicy body &amp; elegant finish.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Colombia</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Cauca</p>
+<p style="margin-bottom: 2px;"><strong>Producer:</strong> Diego Samuel Bermudez</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,920 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal:</strong> Castillo</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Washed</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-02_c0ec40ae-c98e-4357-8ff1-f103c9afa5f9_600x600.png?v=1580969470" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Castillo</s:tag>
+    <s:tag>colombia</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>filter coffee</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Nobility</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>washed</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6582943809611</id>
+      <title>250g</title>
+      <s:price currency="AED">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6582943809611</id>
+      <title>500g</title>
+      <s:price currency="AED">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6582942335051</id>
+    <published>2021-06-28T19:46:10+04:00</published>
+    <updated>2021-06-28T19:46:10+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/diego-samuel-exotica"/>
+    <title>DIEGO SAMUEL Exótica</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/EXOTICA250G.png?v=1624775790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            135.00 - 260.00
+            <a href="https://www.bycypher.com/products/diego-samuel-exotica">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<p>Diego Samuel started with his coffee growing project in Finca El Paraiso in 2008. To him growing coffee was fascinating, he loved visiting his friend’s farms and see them growing coffee. His family owned a farm that was isolated so Diego saw the opportunity to grow coffee there. He began his project by utilizing 2.5 hectares of land. The coffee that was harvested was sold to local coffee cooperatives and that money helped finance his studies in Agricultural Enterprise Management.</p>
+<p>Meanwhile, he started building a network of fair and transparent coffee buyers. Luckily we were one of the first roasters that cupped and bought this coffee. </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p><span>Spiced tea, rich cardamom, jasmine, creamy body, lingering liquorice finish.</span></p>
+<p><strong style="color: #00b18f; text-transform: uppercase; font-size: 1.4em;">Facts</strong><br></p>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Colombia</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Cauca</p>
+<p style="margin-bottom: 2px;"><strong>Producer:</strong> Diego Samuel Bermudez</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,920 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal:</strong> Castillo</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Washed</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-03_47e55e82-dc52-4dbe-ae49-cd7db4b21611_600x600.png?v=1580970634"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Castillo</s:tag>
+    <s:tag>colombia</s:tag>
+    <s:tag>filter coffee</s:tag>
+    <s:tag>Filter Roast</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Nobility</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>washed</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6582942335051</id>
+      <title>250g</title>
+      <s:price currency="AED">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6582942335051</id>
+      <title>500g</title>
+      <s:price currency="AED">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6582890004555</id>
+    <published>2021-06-28T19:46:03+04:00</published>
+    <updated>2021-06-28T19:46:03+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/tabi-elegante"/>
+    <title>Tabi Elegante</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/TABIELEGANTE250G.png?v=1624742668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            65.00 - 105.00
+            <a href="https://www.bycypher.com/products/tabi-elegante">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<p>Their journey with specialty coffee production in 2002 with the Tabi Indio. Next was Java as they attempted to produce some rare and exotic varietals hard to find in Colombia. They planted Java, Tabi Co., and Geisha in mid-2015 and started the first cherry-picking in March-April of 2017. Later, they started trying different fermentation and drying processes including naturals, honey, and semi-washed. Today they have an array of specialty coffees with great notes to indulge your senses.</p>
+<p><strong style="color: #00b18f; text-transform: uppercase; font-size: 1.4em;">CypherED Profile</strong><br></p>
+<p>Jasmine, Candied apple, stone fruits, smooth and silky, sweet vanilla finish</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin: </strong>Colombia</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Region: </strong>Trujillo, Valle del Cauca</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Altitude: </strong>1,650 - 1,700 m</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Varietal:</strong> Tabi-Indo</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Process: </strong>Semi-Washed</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;" data-mce-style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO_UPDATED_1_-02.png?v=1624779942" data-mce-style="float: none;"></div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>colombia</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>filter coffee</s:tag>
+    <s:tag>Filter Roast</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>semi washed</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>Tabi-Indo</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6582890004555</id>
+      <title>250g</title>
+      <s:price currency="AED">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6582890004555</id>
+      <title>500g</title>
+      <s:price currency="AED">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6572073386059</id>
+    <published>2021-06-03T15:49:09+04:00</published>
+    <updated>2021-06-03T15:49:09+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/santa-gertrudis-caturra-natural"/>
+    <title>Santa Gertrudis Caturra Natural</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/SANTAGERTRUDISCATURRANATURAL250G.png?v=1622360979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            75.00 - 125.00
+            <a href="https://www.bycypher.com/products/santa-gertrudis-caturra-natural">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM history</strong></h3>
+<p>Hacienda Santa Gertrudis neighbours Podocarpus National Park and is only minutes away from Vilcabamba, a town famous internationally for its pleasant climate and the longevity of its inhabitants.</p>
+<p>At 1,600m – 1,700 high, the farm cultivates several varietals of Arabica coffee such as Caturra, Yellow Catuaí, Geisha, Sidra, SL28, Typica and Bourbon.</p>
+<p>In 1954, Luis Emilio Eguiguren planted the first coffee trees on the farm and then started selling his beans in surrounding markets. Since then, he introduced innovations to improve the quality of his coffee and post-harvest processing, both of which made him worthy of recognition by the industry. Six decades later, the farm’s curiosity still drives the constant quest for excellence in the cup.<br></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p>Stone fruits, cinnamon, caramel, cacao nibs, round silky body, chocolate fudge aftertaste.<br></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Ecuador</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Loja Province</p>
+<p style="margin-bottom: 2px;"><strong>Farm:</strong> Hacienda Santa Gertrudis</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,600 - 1,700 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>Caturra</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Natural</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/LAS_MORAS-02_600x600.png?v=1587970203"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>caturra</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>Ecuador</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Espresso Roast</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6572073386059</id>
+      <title>250g</title>
+      <s:price currency="AED">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6572073386059</id>
+      <title>500g</title>
+      <s:price currency="AED">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6572073353291</id>
+    <published>2021-06-03T15:49:08+04:00</published>
+    <updated>2021-06-03T15:49:08+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/santa-gertrudis-caturra-honey"/>
+    <title>Santa Gertrudis Caturra Honey</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/SANTAGERTRUDISCATURRAHONEY250G.png?v=1622361169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            65.00 - 105.00
+            <a href="https://www.bycypher.com/products/santa-gertrudis-caturra-honey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM history</strong></h3>
+<p>Hacienda Santa Gertrudis neighbours Podocarpus National Park and is only minutes away from Vilcabamba, a town famous internationally for its pleasant climate and the longevity of its inhabitants.</p>
+<p>At 1,600m – 1,700 high, the farm cultivates several varietals of Arabica coffee such as Caturra, Yellow Catuaí, Geisha, Sidra, SL28, Typica and Bourbon.</p>
+<p>In 1954, Luis Emilio Eguiguren planted the first coffee trees on the farm and then started selling his beans in surrounding markets. Since then, he introduced innovations to improve the quality of his coffee and post-harvest processing, both of which made him worthy of recognition by the industry. Six decades later, the farm’s curiosity still drives the constant quest for excellence in the cup.<br></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p>Golden raisins, apple crumble, syrupy body, lingering honeyed finish. </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Ecuador</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Loja Province</p>
+<p style="margin-bottom: 2px;"><strong>Farm:</strong> Hacienda Santa Gertrudis</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,600 - 1,700 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>Caturra</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Honey</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/GOSA_ICONS-02_1c8930e0-3377-4bde-979a-98d6c405b19a_600x600.png?v=1597229873"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>caturra</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>Ecuador</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Others</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6572073353291</id>
+      <title>250g</title>
+      <s:price currency="AED">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6572073353291</id>
+      <title>500g</title>
+      <s:price currency="AED">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6570124443723</id>
+    <published>2021-06-03T15:49:07+04:00</published>
+    <updated>2021-06-03T15:49:07+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/santa-gertrudis-typica-honey"/>
+    <title>Santa Gertrudis Typica Honey</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/SANTAGERTRUDISTYPICAHONEY250G.png?v=1622006084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            85.00 - 170.00
+            <a href="https://www.bycypher.com/products/santa-gertrudis-typica-honey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM history</strong></h3>
+<p>Hacienda Santa Gertrudis neighbours Podocarpus National Park and is only minutes away from Vilcabamba, a town famous internationally for its pleasant climate and the longevity of its inhabitants.</p>
+<p>At 1,600m – 1,700 high, the farm cultivates several varietals of Arabica coffee such as Caturra, Yellow Catuaí, Geisha, Sidra, SL28, Typica and Bourbon.</p>
+<p>In 1954, Luis Emilio Eguiguren planted the first coffee trees on the farm and then started selling his beans in surrounding markets. Since then, he introduced innovations to improve the quality of his coffee and post-harvest processing, both of which made him worthy of recognition by the industry. Six decades later, the farm’s curiosity still drives the constant quest for excellence in the cup.<br></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p>Mandarin orange, plum, syrupy, smooth caramel finish.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Ecuador</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Loja Province</p>
+<p style="margin-bottom: 2px;"><strong>Farm:</strong> Hacienda Santa Gertrudis</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,600 - 1,700 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>Typica</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Honey</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-02_f554b661-069c-4be0-a31b-39cc22bea8ff_600x600.png?v=1580911615"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Ecuador</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Nobility</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Others</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>Typica</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6570124443723</id>
+      <title>250g</title>
+      <s:price currency="AED">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6570124443723</id>
+      <title>500g</title>
+      <s:price currency="AED">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/3960552882251</id>
+    <published>2021-05-20T15:09:52+04:00</published>
+    <updated>2021-05-20T15:09:52+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/panama-geisha"/>
+    <title>PANAMA GEISHA - WASHED</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/PANAMA_GEISHA_NEW_250g.png?v=1600848441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            110.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM history</strong></h3>
+<p><span style="font-weight: 400;">Finca Lerida’s reputation is as old as the first coffee that Panama exported to Germany back in 1929. The high quality coffee produced inside this exceptional plantation made its international buyers realize that there was more to Panama than just it’s famous Canal. This was, and still is, Finca Lerida.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Panama Lerida Estate is one of the oldest coffee farms in Panama, founded by Toleff Boche Monniche in the 1920s. The family farm was sold to the Collins family in 1957. The Collins family, and particularly John Collins, were instrumental in changing the worldwide perception of coffee in Panama. In early Best of Panama competitions in the early 2000s, the Lerida Estate set the standard for what coffee in Panama can taste like. This was even before the famous Geisha variety was found in Panama.</span></p>
+<p><span style="font-weight: 400;">Finca Lerida then was separated by lots, understanding the differences created by the microclimates and conditions within the farm.</span></p>
+<p><span style="font-weight: 400;">Esplendorosa Estate was planted with Geisha due to its high altitude and great conditions for Geisha development. Its size made it Geisha heaven and has won many prizes in the Best Of Panama competition.</span></p>
+<p><span style="font-weight: 400;">Almost 100 years since it started exporting coffee, Finca Lerida still maintains the trademarked quality that made it among Panama’s most famous names in the world of coffee. </span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p>Intense floral, jasmine aroma, delicate acidity, creamy body, long aftertaste of berries &amp; bergamot-like notes</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Panama</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Boquete, Chiriquí</p>
+<p style="margin-bottom: 2px;"><strong>Farm:</strong> Esplendorosa Estate</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,600 - 1,800 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>Geisha</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Washed</p>
+<p style="margin-bottom: 2px;"> </p>
+<p>Weight: 200g</p>
+<p>Roast: Omni Roast</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-02_c32ffa14-110b-4f85-84bc-52d7f5269fe8_600x600.png?v=1580970052" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>200g</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>filter coffee</s:tag>
+    <s:tag>Geisha</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Nobility</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Panama</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>washed</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/3960552882251</id>
+      <title>200g</title>
+      <s:price currency="AED">110.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6553131417675</id>
+    <published>2021-04-12T20:53:33+04:00</published>
+    <updated>2021-04-12T20:53:33+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/mr-brown"/>
+    <title>Mr. Brown</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/MR.BROWN250G.png?v=1622468311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            65.00 - 105.00
+            <a href="https://www.bycypher.com/products/mr-brown">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<meta charset="utf-8">
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;">The Andrade Family is one of the oldest coffee-producing families in Cerrado Mineiro region, at the Minas Gerais state in Brazil. The Capim Branco Farm has deeds dating back to 1901. Nowadays, following the footsteps of their ancestors, the brothers Ismael and Eduardo Andrade are the owners, producing coffee with passion and respect for the environment and people for over a century.</p>
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;"><br>In the early 90's they decided to expand production, volume Improvement, and quality all together, acquiring the São Silvestre Farm in Serra do Salitre, also part of Cerrado Mineiro - Minas Gerais state. The farm and its Terroir are situated in an altitude ranging between 1100 - 1220 meters, with perfectly balanced wet and dry seasons.</p>
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;">With Dolce Cerrado, we offer a blend of both Terroirs, São Silvestre and Capim Branco, delivering a coffee with all the striking features of the Cerrado Mineiro region. A much appreciated coffee for espresso extractions.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<meta charset="utf-8">
+<p>Sweet tobacco, dense dark chocolate, soft spice lingering finish.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin:</strong> Brazil<br><strong>Region:</strong> Cerrado Mineiro<br><strong>Producer:</strong> Sao Silvestre<br><strong>Altitude:</strong> 1,220 m<br><strong>Varietal:</strong> Yellow Icatú<br><strong>Process:</strong> Anaerobic Cryo Fermentation<br></p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/GOSA_ICONS-02_1c8930e0-3377-4bde-979a-98d6c405b19a_600x600.png?v=1597229873%0A"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Brazil</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Others</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>Yellow Icatú</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6553131417675</id>
+      <title>250g</title>
+      <s:price currency="AED">65.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6553131417675</id>
+      <title>500g</title>
+      <s:price currency="AED">105.00</s:price>
+      <s:sku/>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6553131384907</id>
+    <published>2021-04-12T20:53:31+04:00</published>
+    <updated>2021-04-12T20:53:31+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/mr-orange"/>
+    <title>Mr. Orange</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/MR.ORANGE250G.png?v=1622468335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            65.00 - 105.00
+            <a href="https://www.bycypher.com/products/mr-orange">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<meta charset="utf-8">
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;">The Andrade Family is one of the oldest coffee-producing families in Cerrado Mineiro region, at the Minas Gerais state in Brazil. The Capim Branco Farm has deeds dating back to 1901. Nowadays, following the footsteps of their ancestors, the brothers Ismael and Eduardo Andrade are the owners, producing coffee with passion and respect for the environment and people for over a century.</p>
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;"><br>In the early 90's they decided to expand production, volume Improvement, and quality all together, acquiring the São Silvestre Farm in Serra do Salitre, also part of Cerrado Mineiro - Minas Gerais state. The farm and its Terroir are situated in an altitude ranging between 1100 - 1220 meters, with perfectly balanced wet and dry seasons.</p>
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;">With Dolce Cerrado, we offer a blend of both Terroirs, São Silvestre and Capim Branco, delivering a coffee with all the striking features of the Cerrado Mineiro region. A much appreciated coffee for espresso extractions.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<meta charset="utf-8">
+<p>Cacao nibs, honeyed orange peel, juicy, spiced gooseberry finish.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin:</strong> Brazil<br><strong>Region:</strong> Cerrado Mineiro<br><strong>Producer:</strong> Sao Silvestre<br><strong>Altitude:</strong> 1,220 m<br><strong>Varietal:</strong> Yellow Icatú<br><strong>Process:</strong> Natural - Open Air Tank Aerobic<br></p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/GOSA_ICONS-02_1c8930e0-3377-4bde-979a-98d6c405b19a_600x600.png?v=1597229873" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Brazil</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>Yellow Icatú</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6553131384907</id>
+      <title>250g</title>
+      <s:price currency="AED">65.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6553131384907</id>
+      <title>500g</title>
+      <s:price currency="AED">105.00</s:price>
+      <s:sku/>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6553131319371</id>
+    <published>2021-04-12T20:53:30+04:00</published>
+    <updated>2021-04-12T20:53:30+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/mr-red"/>
+    <title>Mr. Red</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/MR.RED250G.png?v=1622468333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            65.00 - 105.00
+            <a href="https://www.bycypher.com/products/mr-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<meta charset="utf-8">
+<p>It all started with his grandfather Alexandre Garcia Capelo, who was a small coffee producer. His son, Antonio Wander Garcia, is an agricultural engineer researcher in fertility area in coffee and nutrition, following in the footsteps of his father, he became a producer who dedicated his life to know and produce coffee.</p>
+<p>Now, he is helped by his son André Luiz Alvarenga Garcia who is also an agricultural engineer, a researcher specialized in pruning and producing.</p>
+<p>Throughout this story with the coffee cultivation, many stories were lived and the family remained united in this activity that generated prosperity not only to them but also to all who have been connected, always seeking respect, humility, and dignity.</p>
+<p>The family is focused on improving the living conditions of all workers and their families. Overtime, the green areas were expanded, with insulation and planting trees along the springs.</p>
+<p>Changes such as the use of organic matter to the revitalization of the coffee plantations, reducing the use of agrochemicals, and constant testing of new crops with resistance to rust, drought and nematodes are made.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<meta charset="utf-8">
+<p>Tamarind, cacao nibs, cola lime, peppery finish</p>
+<p><strong style="color: #00b18f; text-transform: uppercase; font-size: 1.4em;" data-mce-style="color: #00b18f; text-transform: uppercase; font-size: 1.4em;">Facts</strong><br></p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin:</strong> Brazil<br><strong>Region:</strong> Sul de Minas<br><strong>Producer:</strong> Vale do Sol<br><strong>Altitude:</strong> 860 m – 950 m</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Varietal:</strong> Icatu<br><strong>Process: </strong>76 Hours Natural Anaerobic<br></p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/GOSA_ICONS-02_1c8930e0-3377-4bde-979a-98d6c405b19a_600x600.png?v=1597229873" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Brazil</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>Icatu</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6553131319371</id>
+      <title>250g</title>
+      <s:price currency="AED">65.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6553131319371</id>
+      <title>500g</title>
+      <s:price currency="AED">105.00</s:price>
+      <s:sku/>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6553130860619</id>
+    <published>2021-04-12T20:53:29+04:00</published>
+    <updated>2021-04-12T20:53:29+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/mr-pink"/>
+    <title>Mr. Pink</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/MR.PINK250G.png?v=1622468334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            65.00 - 105.00
+            <a href="https://www.bycypher.com/products/mr-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<meta charset="utf-8">
+<p>The sanctuary farm is a project that was born from a goal of being ahead of market trends. It is not easy to begin planning with plans to bring coffee from different regions of the world to generate a new profile of Brazilian coffee.</p>
+<p>The coffees that grown here are reflections of the obstinacy of Luiz Paulo and his partners. Today, in addition to the traditional Brazilian varieties (like yellow bourbon), the farm has more than 30 exotic varieties of coffee, differentiated cultivation practices (such as shade plantation), and innovative processes (New Flavors).</p>
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;">The South Shrine is next to one of the most traditional farms in Carmo de Minas, Sisters Pereira, where it has its coffee benefited.<br></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<meta charset="utf-8">
+<p>Honeyed black tea, pomegranate, bubbly, balanced, and clean finish.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin:</strong> Brazil<br><strong>Region:</strong> Carmo de Minas<br><strong>Producer:</strong> Fazenda Santuário Sul</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Altitude:</strong> 1,380m – 1,430 m<br><strong>Varietal:</strong> SL 28<br><strong>Process:</strong> Honey  <br></p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/GOSA_ICONS-02_1c8930e0-3377-4bde-979a-98d6c405b19a_600x600.png?v=1597229873"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Brazil</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Others</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>SL 28</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6553130860619</id>
+      <title>250g</title>
+      <s:price currency="AED">65.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6553130860619</id>
+      <title>500g</title>
+      <s:price currency="AED">105.00</s:price>
+      <s:sku/>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6546337562699</id>
+    <published>2021-03-24T12:40:54+04:00</published>
+    <updated>2021-03-24T12:40:54+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/akamat-hizb"/>
+    <title>Akamat Hizb</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/YEMEN-AKAMATHIZB2_1.png?v=1623330949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Akamat Hizb is a small farming community of 15 families nestled in the Mountains of Haraaz.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Haraaz is famous for its villages which cling to nearly inaccessible rocky peaks. Despite the elevation of the mountains reaching nearly 3200 meters above sea level, the weather stays warm and comfortable. The farms seem to hang in the sky when the fog touches them. Haraaz is Yemen’s largest coffee-producing area by volume. The area harbours strong anti-qat sentiments here as locals perceive it as a social vice.</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p>Red grapes, rock melon, pomegranate, blood oranges, creamy smooth body, sweet soft spice finish</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin: </strong>Yemen</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Region: </strong>Haraaz</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Farm:</strong> Akamat Hizb</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Altitude: </strong>2,000 m</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Varietal: </strong>Yemenia</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Process: </strong>Natural</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"> </p>
+<p>Weight: 200g</p>
+<p>Roast: Omni Roast</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;" data-mce-style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-02_c32ffa14-110b-4f85-84bc-52d7f5269fe8_600x600.png?v=1580970052" alt="" style="float: none;" data-mce-style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>200</s:tag>
+    <s:tag>200g</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Nobility</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>Yemen</s:tag>
+    <s:tag>Yemenia</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6546337562699</id>
+      <title>200g</title>
+      <s:price currency="AED">155.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6545580982347</id>
+    <published>2021-03-21T12:08:30+04:00</published>
+    <updated>2021-03-21T12:08:30+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/diego-samuel-lychee"/>
+    <title>DIEGO SAMUEL LYCHEE</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/LYCHEE250G.png?v=1621171740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            135.00 - 260.00
+            <a href="https://www.bycypher.com/products/diego-samuel-lychee">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<p>Diego Samuel started with his coffee growing project in Finca El Paraiso in 2008. To him growing coffee was fascinating, he loved visiting his friend’s farms and see them growing coffee. His family owned a farm that was isolated so Diego saw the opportunity to grow coffee there. He began his project by utilizing 2.5 hectares of land. The coffee that was harvested was sold to local coffee cooperatives and that money helped finance his studies in Agricultural Enterprise Management.</p>
+<p>Meanwhile, he started building a network of fair and transparent coffee buyers. Luckily we were one of the first roasters that cupped and bought this coffee. </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p><span>Evoking <span class="il">lychee</span>, yuzu, vibrant stone fruits, round smooth body, long tangy finish</span></p>
+<p><strong style="color: #00b18f; text-transform: uppercase; font-size: 1.4em;">Facts</strong><br></p>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Colombia</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Cauca</p>
+<p style="margin-bottom: 2px;"><strong>Producer:</strong> Diego Samuel Bermudez</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,920 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal:</strong> Castillo</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Washed</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-03_47e55e82-dc52-4dbe-ae49-cd7db4b21611_600x600.png?v=1580970634"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Castillo</s:tag>
+    <s:tag>colombia</s:tag>
+    <s:tag>filter coffee</s:tag>
+    <s:tag>Filter Roast</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Nobility</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>washed</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6545580982347</id>
+      <title>250g</title>
+      <s:price currency="AED">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6545580982347</id>
+      <title>500g</title>
+      <s:price currency="AED">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6542246936651</id>
+    <published>2021-03-14T20:09:27+04:00</published>
+    <updated>2021-03-14T20:09:27+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/magnifico"/>
+    <title>MAGNIFICO</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/MAGNIFICO250G.png?v=1615727111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            60.00 - 95.00
+            <a href="https://www.bycypher.com/products/magnifico">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<meta charset="utf-8">
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;">The Andrade Family is one of the oldest coffee-producing families in Cerrado Mineiro region, at the Minas Gerais state in Brazil. The Capim Branco Farm has deeds dating back to 1901. Nowadays, following the footsteps of their ancestors, the brothers Ismael and Eduardo Andrade are the owners, producing coffee with passion and respect for the environment and people for over a century.</p>
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;"><br>In the early 90's they decided to expand production, volume Improvement, and quality all together, acquiring the São Silvestre Farm in Serra do Salitre, also part of Cerrado Mineiro - Minas Gerais state. The farm and its Terroir are situated in an altitude ranging between 1100 - 1220 meters, with perfectly balanced wet and dry seasons.</p>
+<p style="font-weight: 400;" data-mce-style="font-weight: 400;">With Dolce Cerrado, we offer a blend of both Terroirs, São Silvestre and Capim Branco, delivering a coffee with all the striking features of the Cerrado Mineiro region. A much appreciated coffee for espresso extractions.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<meta charset="utf-8">
+<p>Dark chocolate, dried apricot, hazelnut, round body, honeyed sweet finish</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin:</strong> Brazil<br><strong>Region:</strong> Cerrado Mineiro<br><strong>Producer:</strong> Sao Silvestre<br><strong>Altitude:</strong> 1,200 m<br><strong>Varietal:</strong> Yellow Catuai<br><strong>Process:</strong> Pulped Natural<br></p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-04_d920941a-7479-49ff-be89-6be29c70210b_600x600.png?v=1580972105" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Brazil</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Espresso Roast</s:tag>
+    <s:tag>Head-Start</s:tag>
+    <s:tag>Headstart</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>Yellow Catuai</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6542246936651</id>
+      <title>250g</title>
+      <s:price currency="AED">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6542246936651</id>
+      <title>500g</title>
+      <s:price currency="AED">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6542246576203</id>
+    <published>2021-03-14T20:09:20+04:00</published>
+    <updated>2021-03-14T20:09:20+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/ukarimu"/>
+    <title>UKARIMU</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/UKARIMU250G.png?v=1615727120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            60.00 - 95.00
+            <a href="https://www.bycypher.com/products/ukarimu">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span style="color: #00b18f;" data-mce-style="color: #00b18f;"><strong>FARM HISTORY</strong></span></h3>
+<p><span>In 2020, after a 40+ year “pause” due to the ongoing conflict in Eastern DR Congo, The Nicolaides family is proud to present their very first Fully Washed Arabica K3 production. The Washing Station is located in South Kivu, along the shores of Lake Kivu, where they took over an abandoned site. With the support and encouragement of the local community, they commissioned the station in March and to date have purchased over 150,000 kg of Cherries.</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;">
+<strong></strong><strong>CypherED Profile</strong>
+</h3>
+<meta charset="utf-8">
+<p>Cherries, red apple, ripe mango, rich and syrupy, subtle acidity, sweet lingering soft spice finish</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin: </strong>Congo</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Region:</strong> South Kivu</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Altitude: </strong>1,134 m</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Varietal: </strong>Bourbon</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Process: </strong>Natural</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;" data-mce-style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-04_d920941a-7479-49ff-be89-6be29c70210b_600x600.png?v=1580972105" data-mce-style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Bourbon</s:tag>
+    <s:tag>Congo</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Espresso Roast</s:tag>
+    <s:tag>Head-Start</s:tag>
+    <s:tag>Headstart</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6542246576203</id>
+      <title>250g</title>
+      <s:price currency="AED">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6542246576203</id>
+      <title>500g</title>
+      <s:price currency="AED">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4674045837387</id>
+    <published>2021-03-11T11:34:38+04:00</published>
+    <updated>2021-03-11T11:34:38+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/hakuna-matata"/>
+    <title>Hakuna matata</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/HAKUNAMATATA250G.png?v=1613454522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            65.00 - 105.00
+            <a href="https://www.bycypher.com/products/hakuna-matata">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p>Floral aromas, tea-like, citrus fruit and crisp apple, plum, berries, smooth elegant finish</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Kenya</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Mukurweini</p>
+<p style="margin-bottom: 2px;"><strong>Farm: </strong>Rumukia FCS</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,755  m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>SL28</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Washed</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/GOSA_ICONS-02_1c8930e0-3377-4bde-979a-98d6c405b19a_600x600.png?v=1597229873" alt="" style="float: none;"></div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>filter coffee</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>SL 28</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>washed</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4674045837387</id>
+      <title>250g</title>
+      <s:price currency="AED">65.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4674045837387</id>
+      <title>500g</title>
+      <s:price currency="AED">105.00</s:price>
+      <s:sku/>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4692937867339</id>
+    <published>2021-03-11T11:34:33+04:00</published>
+    <updated>2021-03-11T11:34:33+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/furaha"/>
+    <title>Furaha</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/FURAHA250g.png?v=1613454496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            65.00 - 105.00
+            <a href="https://www.bycypher.com/products/furaha">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<h3><span style="color: #00b08d;" data-mce-style="color: #00b08d;"><strong>FARM HISTORY</strong></span></h3>
+<p>Othaya Farmers’ Co-operative Society Limited is situated about 150km north of Kenya's capital of Nairobi in Othaya Town, Nyeri County. Othaya is sandwiched between Mt. Kenya and the Aberdare Ranges, at an altitude of 1828 meters (approximately 6000 feet) above sea level. This is where the world-famous Arabica coffee is grown. The Society was registered in 1956 as a coffee marketing society with an initial membership of 250 farmers. Currently, the Society has 19 factories with a total membership of 15,000 small scale farmers. The Society has coffee nurseries for coffee seedlings, 19 coffee factories/wet mills and store outlets in each of the wet mills for provision of farm inputs. The Society also has a dry mill that serves the 19 coffee factories through finance raised by selling shares to the members. All coffee from Othaya Farmers’ Co-operative Society is Fairtrade Certified. One of the factories belonging to this giant co-operative is Mahiga factory.</p>
+<p><br>Mahiha station was built in 1962 and is in Rukira village at an altitude of 1813 meters above sea level on latitude 00.52512° South and longitude 036.93390° east. The station is located along Mumwe River and utilizes water from the river to pulp cherry. The river originates from the Aberdare Ranges.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p>Black currant, apricot, tea-like, silky body, elegant lingering zesty finish</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Kenya</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Nyeri</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,813 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>SL28</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Washed</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/GOSA_ICONS-02_1c8930e0-3377-4bde-979a-98d6c405b19a_600x600.png?v=1597229873"></div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>filter coffee</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>SL 28</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>washed</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4692937867339</id>
+      <title>250g</title>
+      <s:price currency="AED">65.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4692937867339</id>
+      <title>500g</title>
+      <s:price currency="AED">105.00</s:price>
+      <s:sku/>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4293913673803</id>
+    <published>2021-02-22T18:26:31+04:00</published>
+    <updated>2021-02-22T18:26:31+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/leilasa"/>
+    <title>LEILASA</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/LEILASA250G.png?v=1614003892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            65.00 - 105.00
+            <a href="https://www.bycypher.com/products/leilasa">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<meta charset="utf-8" p="">
+<p>Candied orange peel, raspberries, hibiscus, jammy body, lively and juicy finish</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Ethiopia</p>
+<p style="margin-bottom: 2px;"><strong>Region:</strong> Sidamo</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,900 - 2,000 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>Heirloom</p>
+<p style="margin-bottom: 2px;"><strong>Process:</strong> Washed</p>
+<p style="margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-03_7a91b65a-97da-4dbd-a470-7fc7461161b2_600x600.png?v=1580971458"></div>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Coffisticated</s:tag>
+    <s:tag>Ethiopia</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Omni Roast</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>washed</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4293913673803</id>
+      <title>250g</title>
+      <s:price currency="AED">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4293913673803</id>
+      <title>500g</title>
+      <s:price currency="AED">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4732278341707</id>
+    <published>2021-02-01T13:02:29+04:00</published>
+    <updated>2021-02-01T13:02:29+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/guatalon"/>
+    <title>GUATALON</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/GUATEMALA-GUATALON1.png?v=1623332512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CUP OF EXCELLENCE RANK 27 - GUATEMALA 2020</strong></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<p><span>El Guatalon is located at Belen Village, Santa Rosa de Lima, Santa Rosa; 35 kms from Guatemala City. It has a total area of 50 hectares, 10 of which produce coffee and the rest possess a natural forest reserve of pine, cypress and other varieties.</span></p>
+<p><span>With over 60 years in coffee production, the Juarez family is currently in its fourth generation of coffee growers and has continued its legacy producing one of the best coffees of the region.</span></p>
+<p><span>The name “El Guatalon” comes from the term “guatal”, a word used in some Central American countries that refers to a piece of land where cattle graze after the corn harvest.</span></p>
+<p><span>As coffee growers, we are committed with keeping our natural resources and biodiversity. El Guatalon is a fantastic place to do some mountain hiking thru the coffee forest and to experience a unique bird watching.</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<p><span>Berries, vanilla, chocolate orange fondant, soft candy, lively acidity, juicy body, smooth &amp; crisp finish</span></p>
+<p> </p>
+<p><strong style="color: #00b18f; text-transform: uppercase; font-size: 1.4em;" data-mce-style="color: #00b18f; text-transform: uppercase; font-size: 1.4em;">Facts</strong><br></p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Origin: </strong>Guatemala</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Region: </strong>Santa Rosa</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Altitude: </strong>1,600 - 1,750 m</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Varietal: </strong>Pacamara</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><strong>Process: </strong>Washed</p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"> </p>
+<p>Weight: 200g</p>
+<p>Roast: Espresso Roast</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;" data-mce-style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;" data-mce-style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/Geisha_Icons-02_45355246-5489-4cb3-949e-bc749cf0885e.png?v=1610372468;%20data-mce-style=" float:="" none=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>200</s:tag>
+    <s:tag>200g</s:tag>
+    <s:tag>cup of excellence</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Espresso Roast</s:tag>
+    <s:tag>Guatemala</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Micro-lot</s:tag>
+    <s:tag>Nobility</s:tag>
+    <s:tag>Pacamara</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>washed</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4732278341707</id>
+      <title>200g</title>
+      <s:price currency="AED">135.00</s:price>
+      <s:sku/>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4723406667851</id>
+    <published>2021-01-12T15:41:39+04:00</published>
+    <updated>2021-01-12T15:41:39+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/great-mandailing"/>
+    <title>GREAT MANDAILING</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/GREATMANDAILING250G.png?v=1613453834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            60.00 - 95.00
+            <a href="https://www.bycypher.com/products/great-mandailing">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aceh is well known for producing one of the most remarkable Sumatran coffees in the world. Wet-hulled “Giling Basah” is a traditional coffee processing method only done in Sumatra.</p>
+<p>Unlike other coffees, Sumatra coffee parchments are hulled when they are still wet. Although this process creates unique characters in Sumatra coffee, it is also the main reason why the coffee is produced in limited quantities. Once it’s collected in Aceh, the coffee is then transported to Medan where it is sorted with colour sorter, gravity table and by hand, bagged and then shipped.</p>
+<p> </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<meta charset="utf-8">
+<p><span>Hints of tobacco and cedar aromas with intense cacao, full-bodied with a pleasant spicy finish</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Indonesia</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>North Sumatra</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>1,200m-1,500m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>Ateng</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Wet Hulled</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<img src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-04_d920941a-7479-49ff-be89-6be29c70210b_600x600.png?v=1580972105" alt="" style="float: none;"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250</s:tag>
+    <s:tag>250g</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Ateng</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Espresso Roast</s:tag>
+    <s:tag>Head-Start</s:tag>
+    <s:tag>Headstart</s:tag>
+    <s:tag>Indonesia</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>semi washed</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4723406667851</id>
+      <title>250g</title>
+      <s:price currency="AED">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4723406667851</id>
+      <title>500g</title>
+      <s:price currency="AED">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4563950927947</id>
+    <published>2021-01-11T17:02:45+04:00</published>
+    <updated>2021-01-11T17:02:45+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/supreme-jaguara"/>
+    <title>SUPREME JAGUARA</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/SUPREMEJAGUARA250G.png?v=1616582445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            85.00 - 170.00
+            <a href="https://www.bycypher.com/products/supreme-jaguara">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<p>Jaguara farm had its beginning from a three-friend trip (Antonio Wander, Rubem Carlos and Rubem Murilo ) in 2001 when they planted the first coffee trees in Campo das Vertentes region. The farm is named after an important Quilombola community, Jaguara.</p>
+<p>The farm is situated next to São João Del Rey, a very important historic town in the colonization of Brazil and is famous due to the gold extraction, and have never had a coffee culture in their tradition.</p>
+<p>With a predominance of nice mountains at high altitudes, the planted coffee trees have adapted very well. In 2015, there was the first quality evaluation of the produced coffee which were identified by the intense flavours of yellow fruit. Agriculture is part of the family history, where his grandfather, Alexander Capelo Garcia was small a coffee producer, and his father, Antonio Wander Rafael Garcia was an IBC researcher and Agronomist in the area of fertility and nutrition and dedicated his whole life to know and produce coffee.</p>
+<p>Nowadays the farm belongs to André Luiz, the son of Antonio Wander, who bought the part from of Rubem Murilo and Rubens Carlos. André Luiz Garcia is also an agronomist and researcher at Procafé Foundation specialized in pruning and produce. Andre is married to Natalia Moreira who is a coffee Q-grader and Trader of Cafebras. Natalia gives Andre support by controlling the quality of the farm and they make coffee experiments together every year to try to innovate and develop new coffee profiles.</p>
+<p>Throughout this story with the coffee cultivation, the family remained united in this activity that generated prosperity not only to them but also to all who have been connected, always seeking respect, humility and dignity. The soil type of farm is red/yellow, volcanic with medium texture typical of the savanna region.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>CypherED Profile</strong></h3>
+<meta charset="utf-8">
+<p><span>Fruity, juicy and silky, orange blossom, berries, maple syrup, smooth sweet lingering finish</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Brazil</p>
+<p style="margin-bottom: 2px;"><strong>Region: </strong>Campo das Vertentes</p>
+<p style="margin-bottom: 2px;"><strong>Farm: </strong>Fazenda Jaguara</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>960 - 1,040 m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>Yellow Catuaí</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Natural<span> </span><span data-mce-fragment="1">Anaerobic</span></p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-02_0063309b-2021-483f-9a87-b8093492192b_600x600.png?v=1580970229" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Brazil</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>filter coffee</s:tag>
+    <s:tag>Filter Roast</s:tag>
+    <s:tag>latest coffee</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Nobility</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>Yellow Catuai</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4563950927947</id>
+      <title>250g</title>
+      <s:price currency="AED">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4563950927947</id>
+      <title>500g</title>
+      <s:price currency="AED">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/1338986528868</id>
+    <published>2021-01-10T16:08:40+04:00</published>
+    <updated>2021-01-10T16:08:40+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/santa-lucia"/>
+    <title>SANTA LUCIA</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/SANTALUCIA250G.png?v=1613453848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            60.00 - 95.00
+            <a href="https://www.bycypher.com/products/santa-lucia">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Sul de Minas is the most important coffee production center in Brazil with about 14 cities, and the region accounts on average, 30 % of Brazilian production of coffee. Among the factors that contribute to South of Minas has increased competitiveness in coffee production are the climate and soil; infrastructure of the properties; varying production systems; tradition and sustainability. The mountainous terrain is ideal for coffee production. The altitude varies from 950 to 1300 meters and the annual temperature stays around 22 to 24<span>º</span>C.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>FARM HISTORY</strong></h3>
+<p> Santa Lucia farm was bought in 1994. Since then, all the family has been working together, respecting and protecting the workers of the farm. The respect and the gratitude to the farm workers is so great that, the coffee produced there, received the name of one of them, the oldest one, Diquinho. In total, there were 62 hectares of land, used only for cattle. In 1998, the owners decided that it was time to invest in another type of agribusiness and then, began to planting coffee, dedicating 8 hectares of land to it. This number has grown and today the farm counts on 123 hectares of land, dedicating 30 hectares for coffee and has an annual average production of 1000 bags.<span lang="en-gb">The remaining areas are represented by native forests which were 25% recovered, since they didn't exist when the farm was bought</span>. <span dir="ltr" lang="en-gb">In 2016, the family poured its efforts into producing high quality and excellent coffees, which went on to conquer during the Cup of Excellence competition, where it won 6<sup>th</sup><span> </span>place in the natural coffees category.</span>Sweetness is the main characteristic of this coffee and it also presents interesting complexities of flavours due to the "terroir" of this small micro-region known as Serra das Abelhas.</p>
+<p> </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>cyphered profile</strong></h3>
+<p> Floral, Nutty, Vanilla, Chocolate Flavors, Syrupy</p>
+<p> </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Facts</strong></h3>
+<p style="margin-bottom: 2px;"><strong>Origin: </strong>Brazil</p>
+<p style="margin-bottom: 2px;"><strong>Region:  </strong>Sul de Minas</p>
+<p style="margin-bottom: 2px;"><strong>Altitude: </strong>900 -1020m</p>
+<p style="margin-bottom: 2px;"><strong>Varietal: </strong>Yellow Catuai</p>
+<p style="margin-bottom: 2px;"><strong>Process: </strong>Natural</p>
+<p style="text-transform: uppercase; margin-top: 16px; margin-bottom: 2px;"> </p>
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1857/4371/files/NOBILTY_COFFISTICATED_HEADSTART_LOGO-04_d920941a-7479-49ff-be89-6be29c70210b_600x600.png?v=1580972105"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>250g</s:tag>
+    <s:tag>500g</s:tag>
+    <s:tag>Brazil</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Espresso Roast</s:tag>
+    <s:tag>Head-Start</s:tag>
+    <s:tag>Headstart</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Roasted Coffee</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:tag>Yellow Catuai</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1338986528868</id>
+      <title>250g</title>
+      <s:price currency="AED">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1338986528868</id>
+      <title>500g</title>
+      <s:price currency="AED">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

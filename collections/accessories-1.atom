@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.bycypher.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.bycypher.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.bycypher.com/collections/accessories-1.atom"/>
+  <title>Cypher Roastery</title>
+  <updated>2021-05-18T17:36:02+04:00</updated>
+  <author>
+    <name>Cypher Roastery</name>
+  </author>
+  <entry>
+    <id>https://www.bycypher.com/products/3935008161867</id>
+    <published>2021-05-18T17:36:02+04:00</published>
+    <updated>2021-05-18T17:36:02+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/chemex-paper-filters"/>
+    <title>Chemex Paper Filters</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/CHEMEX2.png?v=1586758157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>100 sheet of the white Chemex paper filters</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><span></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/3935008161867</id>
+      <title>Chemex 3 cup filter</title>
+      <s:price currency="AED">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/3935008161867</id>
+      <title>Chemex 6cup filter</title>
+      <s:price currency="AED">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6563217997899</id>
+    <published>2021-05-16T09:03:12+04:00</published>
+    <updated>2021-05-16T09:03:12+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/cafec-abaca-cone-shaped-paper-filter"/>
+    <title>CAFEC ABACA V60 PAPER FILTERS</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/WhatsAppImage2021-05-06at1.01.00PM.jpg?v=1620643546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>100 sheet of the Abaca Paper Filter</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><span></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563217997899</id>
+      <title>Cup 4 paper filters</title>
+      <s:price currency="AED">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4737258094667</id>
+    <published>2021-02-15T11:42:13+04:00</published>
+    <updated>2021-02-15T11:42:13+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/coffee-tray"/>
+    <title>Coffee Tray</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/CypherTrayWebsiteTemplate2.png?v=1613310695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            540.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimension: 32cm x 22cm x 4cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4737258094667</id>
+      <title>Default Title</title>
+      <s:price currency="AED">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/1485530562635</id>
+    <published>2018-12-04T16:47:53+04:00</published>
+    <updated>2018-12-04T16:47:53+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/cupping-spoon"/>
+    <title>Cupping Spoon</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Cupping_Spoon.png?v=1546392272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            23.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cupping Spoons are the ultimate tool for roasters and cuppers alike. </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><span>Specifications</span></h3>
+<p>Stainless steel</p>
+<p>Well balanced</p>
+<p>Heavy weight</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1485530562635</id>
+      <title>Default Title</title>
+      <s:price currency="AED">23.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/1485526204491</id>
+    <published>2018-12-04T13:25:13+04:00</published>
+    <updated>2018-12-04T13:25:13+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/cupping-bowl"/>
+    <title>Cupping Bowl</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Cupping_Cup.png?v=1546392271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Cupping Bowl - one of the <span data-mce-fragment="1">essential </span>tools for roasters and cuppers alike. </p>
+<h3 data-mce-fragment="1"><span style="color: #00b18f;" data-mce-fragment="1">SPECIFICATIONS</span></h3>
+<p data-mce-fragment="1"><span>White Ceramic</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1485526204491</id>
+      <title>Default Title</title>
+      <s:price currency="AED">12.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+</feed>

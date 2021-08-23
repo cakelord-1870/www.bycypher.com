@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.bycypher.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.bycypher.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.bycypher.com/collections/serenity-box.atom"/>
+  <title>Cypher Roastery</title>
+  <updated>2021-02-22T18:33:47+04:00</updated>
+  <author>
+    <name>Cypher Roastery</name>
+  </author>
+  <entry>
+    <id>https://www.bycypher.com/products/4712138735691</id>
+    <published>2021-02-22T18:33:47+04:00</published>
+    <updated>2021-02-22T18:33:47+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/gift-of-joy"/>
+    <title>Gift of Joy</title>
+    <s:type>Serenity Box</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/SERENITYBOX-03_1.jpg?v=1614676147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Serenity Box<br>
+        <strong>Price: </strong>
+            315.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;"> Looking for a great gift for you or your loved ones? have a peace of mind.</div>
+<div style="text-align: left;">In fact. Have some serenity now!</div>
+<div style="text-align: left;"> </div>
+<div style="text-align: left;">Introducing the SERENITY box gift kit.</div>
+<div style="text-align: left;">A peace of mind. A piece of love.</div>
+<div style="text-align: left;"> </div>
+<div style="text-align: left;">A box filled with Cypher goodies that could dazzle any coffeehead out there,</div>
+<div style="text-align: left;">yourself included.</div>
+<div style="text-align: center;">
+<span></span><span></span> </div>
+<div style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Package Included</strong></div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 Moka Pot 3 Cups</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">
+<span>1 x Snackwell </span><span>Combo Box</span>
+</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 x 250g <span data-mce-fragment="1">House </span><span data-mce-fragment="1">Blend</span>
+</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 x 250g Headstart</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 x 250g Coffisticated</div>
+<div style="text-align: center;" data-mce-style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Serenity Box</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4712138735691</id>
+      <title>Default Title</title>
+      <s:price currency="AED">315.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4711517192267</id>
+    <published>2021-02-22T18:33:43+04:00</published>
+    <updated>2021-02-22T18:33:43+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/gift-of-love-1"/>
+    <title>Gift of Love</title>
+    <s:type>Serenity Box</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/SERENITYBOX-02.jpg?v=1614676132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Serenity Box<br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">
+<span></span><span></span> Looking for a great gift for you or your loved ones? have a peace of mind.</div>
+<div style="text-align: left;">In fact. Have some serenity now!</div>
+<div style="text-align: left;"> </div>
+<div style="text-align: left;">Introducing the SERENITY box gift kit.</div>
+<div style="text-align: left;">A peace of mind. A piece of love.</div>
+<div style="text-align: left;"> </div>
+<div style="text-align: left;">A box filled with Cypher goodies that could dazzle any coffeehead out there,</div>
+<div style="text-align: left;">yourself included.</div>
+<div style="text-align: center;"> </div>
+<div style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Package Included</strong></div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 French Press</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">
+<span>1 x Snackwell </span><span>Combo Box</span>
+</div>
+</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 x 250g <span data-mce-fragment="1">House </span><span data-mce-fragment="1">Blend</span>
+</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 x 250g Headstart</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 x 250g Coffisticated</div>
+<div style="text-align: center;" data-mce-style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Serenity Box</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4711517192267</id>
+      <title>Default Title</title>
+      <s:price currency="AED">255.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4712139620427</id>
+    <published>2021-02-22T18:33:31+04:00</published>
+    <updated>2021-02-22T18:33:31+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/gift-of-care"/>
+    <title>Gift of Care</title>
+    <s:type>Serenity Box</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/SERENITYBOX-04_1.jpg?v=1614676161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Serenity Box<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" style="text-align: left;"> Looking for a great gift for you or your loved ones? have a peace of mind.</div>
+<div data-mce-fragment="1" style="text-align: left;">In fact. Have some serenity now!</div>
+<div data-mce-fragment="1" style="text-align: left;"> </div>
+<div data-mce-fragment="1" style="text-align: left;">Introducing the SERENITY box gift kit.</div>
+<div data-mce-fragment="1" style="text-align: left;">A peace of mind. A piece of love.</div>
+<div data-mce-fragment="1" style="text-align: left;"> </div>
+<div data-mce-fragment="1" style="text-align: left;">A box filled with Cypher goodies that could dazzle any coffeehead out there,</div>
+<div data-mce-fragment="1" style="text-align: left;">yourself included.</div>
+<div style="text-align: center;">
+<span></span><span></span> </div>
+<div style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Package Included</strong></div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 Aeropress</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">
+<span>1 x Snackwell </span><span>Combo Box</span>
+</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 x 250g House Blend</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 x 250g <span data-mce-fragment="1">Coffisticated</span>
+</div>
+<div style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">1 x 250g Nobility</div>
+<div style="text-align: center;" data-mce-style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Serenity Box</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4712139620427</id>
+      <title>Default Title</title>
+      <s:price currency="AED">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

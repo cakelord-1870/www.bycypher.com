@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.bycypher.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.bycypher.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.bycypher.com/collections/gadgets.atom"/>
+  <title>Cypher Roastery</title>
+  <updated>2021-05-30T21:58:15+04:00</updated>
+  <author>
+    <name>Cypher Roastery</name>
+  </author>
+  <entry>
+    <id>https://www.bycypher.com/products/6569430810699</id>
+    <published>2021-05-30T21:58:15+04:00</published>
+    <updated>2021-05-30T21:58:15+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/porlex-mini-grinder-ii"/>
+    <title>Porlex Mini Grinder II</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/porlex_be973a03-df9f-4c59-8cec-9e99a430b10c.png?v=1621930087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            368.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>With its newly designed burr set, the <strong>Porlex II</strong> can grind beans easier, faster, and more evenly. This results in less fines, less boulders, and more even grounds. Do you know what they say about even grounds? More delicious coffee in your mouth! Compared to the Porlex I, this grinder can produce roughly 1.3 times more coffee with the same number of rotations. Wow! There is no need to worry about the top of the grinder rolling away like a boulder in Indiana Jones - Porlex has redesigned the adjustment nut so that it stands up proud and tall on its own! With the new burr, the per-click adjustment changes an average of 37 microns - meaning you can further dial in your Hario V60 recipe. Made in Japan with higher quality materials than its predecessor, the Porlex II punches above its weight - scaring its rivals back to their grinder travel pouch caves.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6569430810699</id>
+      <title>Default Title</title>
+      <s:price currency="AED">368.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/3935008161867</id>
+    <published>2021-05-18T17:36:02+04:00</published>
+    <updated>2021-05-18T17:36:02+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/chemex-paper-filters"/>
+    <title>Chemex Paper Filters</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/CHEMEX2.png?v=1586758157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>100 sheet of the white Chemex paper filters</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><span></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/3935008161867</id>
+      <title>Chemex 3 cup filter</title>
+      <s:price currency="AED">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/3935008161867</id>
+      <title>Chemex 6cup filter</title>
+      <s:price currency="AED">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6563217997899</id>
+    <published>2021-05-16T09:03:12+04:00</published>
+    <updated>2021-05-16T09:03:12+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/cafec-abaca-cone-shaped-paper-filter"/>
+    <title>CAFEC ABACA V60 PAPER FILTERS</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/WhatsAppImage2021-05-06at1.01.00PM.jpg?v=1620643546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>100 sheet of the Abaca Paper Filter</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><span></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563217997899</id>
+      <title>Cup 4 paper filters</title>
+      <s:price currency="AED">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6556474179659</id>
+    <published>2021-04-21T19:27:42+04:00</published>
+    <updated>2021-04-21T19:27:42+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/melitta-purista"/>
+    <title>Melitta Purista</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/PURISTA_black_frontw-obev.jpg?v=1618994242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Purista Series 300</strong><br><strong></strong></p>
+<p><strong>Pure coffee enjoyment.</strong></p>
+<p>As the name suggests, Purista has only one mission: to make coffee that does what coffee has to do – taste really good! The Purista is one of the narrowest fully automatic coffee machines in the world. A modern front panel, large, integrated buttons and a large rotary switch ensure easy handling. The newly designed drip tray has a stainless steel drip plate with an integrated high-quality anti-scratch plastic insert.<br></p>
+<div class="product--buybox block">
+<div class="buybox--inner" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+<div class="liveshopping--details" data-live-shopping-listing-product="true" data-validto="1609023000" data-liveshoppingid="443" swagliveshoppinglistingbox="1">
+<div class="counter is--align-center"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6556474179659</id>
+      <title>Default Title</title>
+      <s:price currency="AED">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4684971999307</id>
+    <published>2021-03-18T09:56:10+04:00</published>
+    <updated>2021-03-18T09:56:10+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/bialetti-moka-express"/>
+    <title>Bialetti Moka Express</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Mokapot3cups.png?v=1609393270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            147.00 - 179.00
+            <a href="https://www.bycypher.com/products/bialetti-moka-express">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Moka Express</strong> is the most classic model made by Bialetti, the world's leading manufacturer of coffee makers. This is the coffee pot that made the Italian manufacturer famous in the 1930s. To this day it is the most popular Moka model in the world, as more than 200 million pots have been produced so far.<br>
+</div>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4684971999307</id>
+      <title>3 cups</title>
+      <s:price currency="AED">147.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4684971999307</id>
+      <title>6 cups</title>
+      <s:price currency="AED">179.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4737258094667</id>
+    <published>2021-02-15T11:42:13+04:00</published>
+    <updated>2021-02-15T11:42:13+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/coffee-tray"/>
+    <title>Coffee Tray</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/CypherTrayWebsiteTemplate2.png?v=1613310695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            540.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimension: 32cm x 22cm x 4cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4737258094667</id>
+      <title>Default Title</title>
+      <s:price currency="AED">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4713353576523</id>
+    <published>2020-12-17T12:19:33+04:00</published>
+    <updated>2020-12-17T12:19:33+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/jura-giga-6"/>
+    <title>Jura - GIGA 6</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/GIGA6_psf_Al_de_en_fr_Original_27930.png?v=1614595531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            21950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>JURA</strong> is redefining the concept of automatic speciality coffee machines with the GIGA 6. This professional machine for household use is brimming with the latest technology for outstanding results. Made of top-­quality ­materials and with Swiss precision, the GIGA 6’s clear ­design features radiate power and expertise. The impressive quality of the iconic new automatic coffee machine is emphasised by the solid front section made of 3 mm-thick aluminium and the weighty aroma preservation cover made of chrome-plated, die-cast zinc.</p>
+<p>Operating this masterpiece of Swiss engineering is completely ­intuitive thanks to the touchscreen display and the Blue Crystal Rotary Switch, and the icing on the cake is that coffee lovers can choose from 28 different specialities. 5-star handling on a whole new level is made possible by artificial intelligence and the ingenious design, which has been carefully considered right down to the last detail.</p>
+<div data-expandable-options='{"modal":true}' data-init="expandable" class="block-expandable" id="pagelayout_0_pagetype_0_pagecontent_0_panExpandable">
+<div data-expandable="content" class="content">
+<div id="pagelayout_0_pagetype_0_pagecontent_0_pnlGlobalContentText"><br></div>
+</div>
+</div>
+<div class="product--buybox block">
+<div class="buybox--inner" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+<div class="liveshopping--details" data-live-shopping-listing-product="true" data-validto="1609023000" data-liveshoppingid="443" swagliveshoppinglistingbox="1">
+<div class="counter is--align-center"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4713353576523</id>
+      <title>Default Title</title>
+      <s:price currency="AED">21950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>13700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4713352888395</id>
+    <published>2020-12-17T10:35:46+04:00</published>
+    <updated>2020-12-17T10:35:46+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/melitta-caffeo-passione-ot-fully-automatic-coffee-machine"/>
+    <title>Melitta Passione Fully Automatic Coffee Machine</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/PassioneOT_frontal.jpg?v=1608120611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            3885.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<div class="product--buybox block">
+<div class="buybox--inner" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+<div class="liveshopping--details" data-live-shopping-listing-product="true" data-validto="1609023000" data-liveshoppingid="443" swagliveshoppinglistingbox="1">
+<div class="counter is--align-center">
+<div class="counter--time"><strong>Melitta Caffeo® Passione® OT Fully Automatic Coffee Machine</strong></div>
+<div class="counter--time"></div>
+<div class="counter--time">Comfort and variety at the touch of a button.</div>
+<div class="counter--time"></div>
+<div class="counter--time">A paradise for passionate coffee lovers: 10 coffee specialities such as café crème, espresso, ristretto, lungo, cappuccino or latte macchiato are prepared at the touch of a button. The cubic design makes them an eye-catcher.</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4713352888395</id>
+      <title>Default Title</title>
+      <s:price currency="AED">3885.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4713327624267</id>
+    <published>2020-12-16T10:45:27+04:00</published>
+    <updated>2020-12-16T10:45:27+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/fellow-stagg-ekg-kettle"/>
+    <title>Fellow Stagg EKG Kettle</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/STAGGEKGKETTLEBLACKWEBSITE.png?v=1607929744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="text" style="text-align: center;"><strong data-mce-fragment="1">Variable Temperature Control</strong></div>
+<div data-mce-fragment="1" class="text" style="text-align: center;">By turning the knob, you select your desired temperature ranging from 135°F to 212°F, and Stagg EKG does the rest. No more guessing degrees.</div>
+<br>
+<div data-mce-fragment="1" class="container-flex px3 pb3 pb10-sm" style="text-align: center;"><strong data-mce-fragment="1">LCD Screen</strong></div>
+<div data-mce-fragment="1" class="container-flex px3 pb3 pb10-sm" style="text-align: center;">See the temp. Be the temp. A discreet, black LCD screen indicates the desired “Set Temperature” and the “Real Time Temperature” with an illuminating element to show the heating progress.</div>
+<br>
+<div data-mce-fragment="1" class="container-flex px3 pb3 pb10-sm" style="text-align: center;"></div>
+<div data-mce-fragment="1" class="container-flex px3 pb3 pb10-sm" style="text-align: center;"><strong data-mce-fragment="1">Hold Option</strong></div>
+<div data-mce-fragment="1" class="container-flex px3 pb3 pb10-sm" style="text-align: center;">When the toggle on the back is switched to HOLD mode, the Stagg EKG will maintain your desired temperature <b data-mce-fragment="1">in either Fahrenheit or Celsius</b> for 60 minutes. You know, for when you overestimate your ability to run two miles. When the toggle is not in HOLD mode, the kettle will go to sleep after reaching the set temperature.</div>
+<br>
+<div data-mce-fragment="1" class="container-flex px3 pb3 pb10-sm" style="text-align: center;"></div>
+<div data-mce-fragment="1" class="container-flex px3 pb3 pb10-sm" style="text-align: center;"><strong data-mce-fragment="1">Brew Stopwatch </strong></div>
+<div data-mce-fragment="1" class="container-flex px3 pb3 pb10-sm" style="text-align: center;">After your water has heated, use EKG’s built in Brew Stopwatch to time your extraction.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4713327624267</id>
+      <title>Default Title</title>
+      <s:price currency="AED">650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/340749418527</id>
+    <published>2020-10-21T16:12:29+04:00</published>
+    <updated>2020-10-21T16:12:29+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/chemex"/>
+    <title>CHEMEX</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/chemex.png?v=1626258966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            195.00 - 215.00
+            <a href="https://www.bycypher.com/products/chemex">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Known as a pristine coffee maker,<span> </span><strong>Chemex</strong><span> </span>employs all of the chemically correct methods for brewing.  It's hourglass shaped flask is made entirely of glass, a chemically inert material that does not absorb odors or chemical residues. The Chemex has no moving parts and will work forever, unless it is dropped or in some other way demolished. Chemex filters are made of the highest quality filter paper.</p>
+<p>The Chemex makes clear, pure and flavorful coffee free of bitterness and sediment – coffee only comes in contact with the filter designed specifically for the Chemex and the carafe's non-porous glass. Check out our <a href="https://cdn.shopify.com/s/files/1/1857/4371/files/BREWING_GUIDES_WEB-01.jpg?v=1582184972">brewing guides</a> for more information.</p>
+<p>This is a 3-cup Chemex. Use with Chemex Paper Filters or the Metal Kone Filter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/340749418527</id>
+      <title>Chemex 3cups</title>
+      <s:price currency="AED">195.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>620</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/340749418527</id>
+      <title>Chemex 6cups</title>
+      <s:price currency="AED">215.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>620</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4684966985803</id>
+    <published>2020-10-21T16:03:15+04:00</published>
+    <updated>2020-10-21T16:03:15+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/hario-v60-range-server-02"/>
+    <title>Hario V60 Range Server</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/HARIOV60-02.png?v=1603087081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            89.00 - 100.00
+            <a href="https://www.bycypher.com/products/hario-v60-range-server-02">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">Hario V60 Range Server</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> is a perfectly designed server for manual coffee brewing at home or in a cafe. Made entirely of durable heat-resistant Japanese glass.</span></p>
+<p><span style="font-weight: 400;">It has been additionally equipped with a glass lid coated with silicone, which allows your ready infusion to remain hot for a long time. It is entirely compatible with all products in the Hario V60 series, especially recommended with V60-02 Dripper from Hario. The server is also microwave safe.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4684966985803</id>
+      <title>01</title>
+      <s:price currency="AED">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4684966985803</id>
+      <title>02</title>
+      <s:price currency="AED">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4517363613771</id>
+    <published>2020-04-09T10:25:20+04:00</published>
+    <updated>2020-04-09T10:25:20+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/french-press"/>
+    <title>FRENCH PRESS</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/FrenchPress.png?v=1599719551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A cylindrical pot with a plunger and built-in filter screen that presses hot water through ground coffee: that’s the simple beauty of the <b>French press</b>, method of choice for many the world over, creating an earthy, rich taste in the cup.</p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<p style="margin-bottom: 2px;"> </p>
+<p style="margin-bottom: 2px;"><span>Check out our </span><a href="https://cdn.shopify.com/s/files/1/1857/4371/files/Learn_Web_171213_eng_fp.png?3671406037976928138" d="">French press Brewing Guide</a><span> for more information.</span></p>
+<p style="margin-bottom: 2px;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4517363613771</id>
+      <title>Default Title</title>
+      <s:price currency="AED">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/3935690457163</id>
+    <published>2019-07-20T00:00:00+04:00</published>
+    <updated>2019-07-20T00:00:00+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/delter-coffee-press"/>
+    <title>DELTER COFFEE PRESS</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/delter.png?v=1564921169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delter Coffee Press has been designed to solve one of the biggest problems in coffee brewing - agitation. To avoid a bitter and inconsistent extraction caused by uncontrolled agitation, the Delter Coffee Press uses a unique jet-seal. This seal keeps the brew water and the coffee grounds separated until the brew commences, preventing uncontrolled agitation. When pressure is applied to the plunger, water and coffee contact is activated, allowing agitation to occur for the first time. This design allows the user to have complete control over the water flow and agitation, resulting in a brew with less bitterness and more clarity.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/3935690457163</id>
+      <title>Default Title</title>
+      <s:price currency="AED">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/1485530562635</id>
+    <published>2018-12-04T16:47:53+04:00</published>
+    <updated>2018-12-04T16:47:53+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/cupping-spoon"/>
+    <title>Cupping Spoon</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Cupping_Spoon.png?v=1546392272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            23.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cupping Spoons are the ultimate tool for roasters and cuppers alike. </p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong></strong></h3>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><span>Specifications</span></h3>
+<p>Stainless steel</p>
+<p>Well balanced</p>
+<p>Heavy weight</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1485530562635</id>
+      <title>Default Title</title>
+      <s:price currency="AED">23.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/1485526204491</id>
+    <published>2018-12-04T13:25:13+04:00</published>
+    <updated>2018-12-04T13:25:13+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/cupping-bowl"/>
+    <title>Cupping Bowl</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Cupping_Cup.png?v=1546392271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Cupping Bowl - one of the <span data-mce-fragment="1">essential </span>tools for roasters and cuppers alike. </p>
+<h3 data-mce-fragment="1"><span style="color: #00b18f;" data-mce-fragment="1">SPECIFICATIONS</span></h3>
+<p data-mce-fragment="1"><span>White Ceramic</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1485526204491</id>
+      <title>Default Title</title>
+      <s:price currency="AED">12.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/340753186847</id>
+    <published>2017-11-22T15:59:10+04:00</published>
+    <updated>2017-11-22T15:59:10+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/hario-v60"/>
+    <title>Hario V60 Dripper</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/v60.png?v=1546392301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            79.00 - 89.00
+            <a href="https://www.bycypher.com/products/hario-v60">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><b>The Hario V60</b>  gives you complete control over brew time and temperature, so your coffee is brewed just the way you like it.</span></p>
+<p>It is designed for <span>manual, pour-over style of brewing, and brews right into your cup or serving vessel. The angled and sprial-reibber side walls are designed for optimal extraction, </span>while the large hole at the bottom of the cone allows coffee to flow freely allowing you to brew according to desired strength.</p>
+<p><span>Available in ceramic (white). </span></p>
+<p>Check out our <a href="https://cdn.shopify.com/s/files/1/1857/4371/files/Learn_Web_171203_V60_no.pdf?14354045149308126494">brewing guides</a> for more information.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/340753186847</id>
+      <title>Hario V60 01 Dripper</title>
+      <s:price currency="AED">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/340753186847</id>
+      <title>Hario V60 02 Dripper</title>
+      <s:price currency="AED">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/340740735007</id>
+    <published>2017-11-22T15:59:10+04:00</published>
+    <updated>2017-11-22T15:59:10+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/aeropress"/>
+    <title>AEROPRESS</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Aeropress.png?v=1598447326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This affordable manual brewing system produces remarkably rich, clean coffee. The <strong>Aeropress</strong> has become the love of coffee experts and beginners alike due to it's portability, speed, <span>versatility,</span> and ease of cleanup.</p>
+<p>You can follow the enclosed instructions to produce a strong, short cup that you can add water or milk to, or you can go completely off the rails crazy and try different combinations of dose, grind, steep time, and amount of brew water for mostly interesting results, such as the inverted method.</p>
+<p>Check out our <a href="https://cdn.shopify.com/s/files/1/1857/4371/files/BREWING_GUIDES_WEB-02.jpg?v=1582184972">brewing guides</a> for more information.</p>
+<p> </p>
+<p>Included with the AeroPress is a stirring tool, coffee scoop, funnel, and a year's supply of paper disk filters (can be reused). </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BREWERS</s:tag>
+    <s:tag>brewing gadgets</s:tag>
+    <s:tag>gadgets</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/340740735007</id>
+      <title>Default Title</title>
+      <s:price currency="AED">155.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>370</s:grams>
+    </s:variant>
+  </entry>
+</feed>

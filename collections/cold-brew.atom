@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.bycypher.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.bycypher.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.bycypher.com/collections/cold-brew.atom"/>
+  <title>Cypher Roastery</title>
+  <updated>2019-04-09T10:12:00+04:00</updated>
+  <author>
+    <name>Cypher Roastery</name>
+  </author>
+  <entry>
+    <id>https://www.bycypher.com/products/1552297984075</id>
+    <published>2019-04-09T10:12:00+04:00</published>
+    <updated>2019-04-09T10:12:00+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/cold-brew"/>
+    <title>COLD BREW</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Cypher Roastery LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/COLDBREW1LITRE.png?v=1623567242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery LLC<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            11.00 - 80.00
+            <a href="https://www.bycypher.com/products/cold-brew">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our cold brew makes an incredible cup of iced coffee. If you're feeling adventurous, fuel up your smoothies, cocktails, and recipes by adding a shot or three.</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Recommended Recipe</strong></h3>
+<p style="margin-bottom: 2px;">A 1L bottle can make up to 9 cups of cold brew at a recommended ratio of 110ml per cup without ice and the suggested ice weight should be 40g.</p>
+<p style="margin-bottom: 2px;"> </p>
+<p style="margin-bottom: 2px;"> </p>
+<p style="margin-bottom: 2px; color: #00b18f;"><strong>If you care about the environment as much as we do.</strong><br><strong>Please reuse the 1 Liter bottle, bring it back to us and we will refill it for you at a discounted price</strong><span>.</span></p>
+<p style="margin-bottom: 2px; color: #00b18f;"> </p>
+<p style="margin-bottom: 2px; color: #00b18f;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cold brew</s:tag>
+    <s:tag>Concentrate</s:tag>
+    <s:tag>specialty coffee</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1552297984075</id>
+      <title>1 Litre / Honduras - Geisha</title>
+      <s:price currency="AED">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1552297984075</id>
+      <title>200 ml / Honduras - Geisha</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1552297984075</id>
+      <title>1 Litre / Colombia - Samyo</title>
+      <s:price currency="AED">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1552297984075</id>
+      <title>200 ml / Colombia - Samyo</title>
+      <s:price currency="AED">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

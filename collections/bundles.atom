@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.bycypher.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.bycypher.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.bycypher.com/collections/bundles.atom"/>
+  <title>Cypher Roastery</title>
+  <updated>2021-08-18T08:43:58+04:00</updated>
+  <author>
+    <name>Cypher Roastery</name>
+  </author>
+  <entry>
+    <id>https://www.bycypher.com/products/1502556749899</id>
+    <published>2021-08-18T08:43:58+04:00</published>
+    <updated>2021-08-18T08:43:58+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/v60-bundle-1"/>
+    <title>V60 Bundle</title>
+    <s:type>Bundles</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/V60_e2b5c455-7d69-4c3f-9fe0-e4152ac5e81a.png?v=1621949616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Bundles<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>The Hario V60</b><span> (02 Dripper) gives you complete control over brew time and temperature, so your coffee is brewed just the way you like it.</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>what's in the box</strong></h3>
+<p style="margin-bottom: 2px;">Hario V60 Dripper - 02</p>
+<p style="margin-bottom: 2px;">Hario V60 Server - 02</p>
+<p style="margin-bottom: 2px;"><span>V60 - 02 paper filters</span></p>
+<p style="margin-bottom: 2px;">One 250g coffee bags of your choice</p>
+<p style="margin-bottom: 2px;"> </p>
+<p style="margin-bottom: 2px;"><span>Check out our </span><a href="https://cdn.shopify.com/s/files/1/1857/4371/files/Learn_Web_1712034.png?3671406037976928138" d="">V60 Brewing Guide</a><span> for more information.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bundles</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1502556749899</id>
+      <title>Default Title</title>
+      <s:price currency="AED">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1012</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4515672883275</id>
+    <published>2021-05-25T13:17:30+04:00</published>
+    <updated>2021-05-25T13:17:30+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/french-press-bundle"/>
+    <title>French Press Bundle</title>
+    <s:type>Accessory &gt; Coffee Scale</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/FRENCHPRESS_ff739281-a15c-4abd-bebc-32c29fb2de5e.png?v=1621947449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Accessory &gt; Coffee Scale<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A cylindrical pot with a plunger and built-in filter screen that presses hot water through ground coffee: that’s the simple beauty of the<span> </span><b>French press</b>, method of choice for many the world over, creating an earthy, rich taste in the cup.</p>
+<p> </p>
+<p><strong style="color: #00b18f; text-transform: uppercase; font-size: 1.4em;">what's in the box</strong></p>
+<p>French press</p>
+<p style="margin-bottom: 2px;">One 250g coffee bags of your choice</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bundles</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4515672883275</id>
+      <title>Default Title</title>
+      <s:price currency="AED">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>879</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/3681749041227</id>
+    <published>2021-05-25T13:10:08+04:00</published>
+    <updated>2021-05-25T13:10:08+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/moka-express-bundle"/>
+    <title>Moka Express Bundle</title>
+    <s:type>Bundles</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/MOKA.png?v=1624350326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Bundles<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-wrapper">
+<div class="product-details
+          border" data-product-quick-add="true" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+<div class="module description">
+<div class="rte" itemprop="description">
+<div>
+<strong>Moka Express</strong><span> </span>is the most classic model made by Bialetti, the world's leading manufacturer of coffee makers. This is the coffee pot that made the Italian manufacturer famous in the 1930s. To this day it is the most popular Moka model in the world, as more than 200 million pots have been produced so far.</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;" data-mce-style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>what's in the box</strong></h3>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;"><span mce-data-marked="1">Moka Express (3cups)</span></p>
+<p style="margin-bottom: 2px;" data-mce-style="margin-bottom: 2px;">One 250gcoffee bags of your choice</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bundles</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/3681749041227</id>
+      <title>Default Title</title>
+      <s:price currency="AED">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>806</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/3526875578443</id>
+    <published>2021-05-25T12:55:45+04:00</published>
+    <updated>2021-05-25T12:55:45+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/aeropress-bundle"/>
+    <title>Aeropress Bundle</title>
+    <s:type>Bundle &gt; Aeropress</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/AEROPRESS_0468757b-0638-4fce-86b5-6e3466d80642.png?v=1627903369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Bundle &gt; Aeropress<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This affordable manual brewing system produces remarkably rich, clean coffee. The </span><strong>Aeropress</strong><span> has become the love of coffee experts and beginners alike due to its portability, speed, </span><span>versatility,</span><span> and ease of cleanup.</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Bundle Includes</strong></h3>
+<p style="margin-bottom: 2px;">Aeropress</p>
+<p style="margin-bottom: 2px;"><span>paper disk filters</span></p>
+<p style="margin-bottom: 2px;">One 250g coffee bags of your choice</p>
+<p style="margin-bottom: 2px;"> </p>
+<p style="margin-bottom: 2px;"><span>Check out our <a href="https://cdn.shopify.com/s/files/1/1857/4371/files/Learn_Web_171203_AP_no.pdf?14354045149308126494" d="">Aeropress Brewing Guide</a> for more information.</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bundles</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/3526875578443</id>
+      <title>Default Title</title>
+      <s:price currency="AED">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>993</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/1500080832587</id>
+    <published>2021-05-25T12:25:09+04:00</published>
+    <updated>2021-05-25T12:25:09+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/chemex-bundle"/>
+    <title>Chemex Bundle</title>
+    <s:type>Bundle &gt; Chemex</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/CHEMEX_45399fe5-5b31-461e-bd64-2e5da3871d24.png?v=1621947481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Bundle &gt; Chemex<br>
+        <strong>Price: </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Known as a pristine coffee maker,</span><span> </span><strong>Chemex</strong><span> </span><span>employs all of the chemically correct methods for brewing.  It's hourglass shaped flask is made entirely of glass, a chemically inert material that does not absorb odors or chemical residues. The Chemex has no moving parts and will work forever, unless it is dropped or in some other way demolished. Chemex filters are made of the highest quality filter paper.</span></p>
+<h3 style="color: #00b18f; text-transform: uppercase; margin-bottom: 2px;"><strong>Bundle Includes</strong></h3>
+<p style="margin-bottom: 2px;">Chemex (6-cup)</p>
+<p style="margin-bottom: 2px;"><span>Chemex paper filters</span></p>
+<p style="margin-bottom: 2px;">One 250g coffee bags of your choice</p>
+<p style="margin-bottom: 2px;"> </p>
+<p style="margin-bottom: 2px;"><span>Check out our </span><a href="https://cdn.shopify.com/s/files/1/1857/4371/files/Learn_Web_171203_CH_no.pdf?14354045149308126494">Chemex brewing guides</a><span> for more information.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bundles</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/1500080832587</id>
+      <title>Default Title</title>
+      <s:price currency="AED">285.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

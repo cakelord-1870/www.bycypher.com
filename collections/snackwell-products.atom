@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.bycypher.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.bycypher.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.bycypher.com/collections/snackwell-products.atom"/>
+  <title>Cypher Roastery</title>
+  <updated>2021-04-06T11:15:44+04:00</updated>
+  <author>
+    <name>Cypher Roastery</name>
+  </author>
+  <entry>
+    <id>https://www.bycypher.com/products/6550985572427</id>
+    <published>2021-04-06T11:15:44+04:00</published>
+    <updated>2021-04-06T11:15:44+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/dried-pitahaya"/>
+    <title>Dried Pitahaya</title>
+    <s:type>Snack &gt; Fruit Bites</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/SIMPLYFRUTA_8f2119f0-cf0e-4721-94ed-e64a1b5f2e76.png?v=1620635635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Snack &gt; Fruit Bites<br>
+        <strong>Price: </strong>
+            12.00 - 18.00
+            <a href="https://www.bycypher.com/products/dried-pitahaya">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Snackwell is 100% natural fruit-based. That means it ZERO added sugar, ZERO preservatives, ZERO artificial colouring, and ZERO guilt!</span></p>
+<p> </p>
+<p align="center"><span>Once you buy a Snackwell product, you know that you are getting one that is harvested with love with an appreciation for coffee, while supporting fair trade and the community of coffee producers all around the world.</span></p>
+<p><span style="color: #ffd600;"><strong>COUNTRY OF ORIGIN:</strong></span><br>Ecuador</p>
+<p><span style="color: #ffd600;"><strong>INGREDIENTS:</strong></span><br>Dried pitahaya</p>
+<p><span style="color: #ffd600;"><strong>STORAGE INSTRUCTIONS:</strong></span><br>Keep tightly closed, store in a cool and dry place</p>
+<p> </p>
+<p><br><br><br><br><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banacoco</s:tag>
+    <s:tag>banana</s:tag>
+    <s:tag>Ecuador</s:tag>
+    <s:tag>fruity snacks</s:tag>
+    <s:tag>SnackWell products</s:tag>
+    <s:tag>SnackWell Produts</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6550985572427</id>
+      <title>50g</title>
+      <s:price currency="AED">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6550985572427</id>
+      <title>100g</title>
+      <s:price currency="AED">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6550984589387</id>
+    <published>2021-04-06T11:15:44+04:00</published>
+    <updated>2021-04-06T11:15:44+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/coconut-banana-bites"/>
+    <title>Coconut Banana Bites</title>
+    <s:type>Snack &gt; Fruit Bites</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/COCONINO_1f7a5e35-d9a5-4ff3-bc4a-20a59a540296.png?v=1620640853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Snack &gt; Fruit Bites<br>
+        <strong>Price: </strong>
+            13.00 - 39.00
+            <a href="https://www.bycypher.com/products/coconut-banana-bites">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Snackwell is 100% natural fruit-based. That means it ZERO added sugar, ZERO preservatives, ZERO artificial colouring, and ZERO guilt!</span></p>
+<p> </p>
+<p align="center"><span>Once you buy a Snackwell product, you know that you are getting one that is harvested with love with an appreciation for coffee, while supporting fair trade and the community of coffee producers all around the world.</span></p>
+<p><span style="color: #ffd600;"><strong>COUNTRY OF ORIGIN:</strong></span><br>Ecuador</p>
+<p><span style="color: #ffd600;"><strong>INGREDIENTS:</strong></span><br>dried banana, dried coconut, banana powder</p>
+<p><span style="color: #ffd600;"><strong>STORAGE INSTRUCTIONS:</strong></span><br>Keep tightly closed, store in a cool and dry place</p>
+<p> </p>
+<p><br><br><br><br><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banacoco</s:tag>
+    <s:tag>banana</s:tag>
+    <s:tag>Ecuador</s:tag>
+    <s:tag>fruity snacks</s:tag>
+    <s:tag>SnackWell products</s:tag>
+    <s:tag>SnackWell Produts</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6550984589387</id>
+      <title>50g</title>
+      <s:price currency="AED">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6550984589387</id>
+      <title>200g</title>
+      <s:price currency="AED">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6550985441355</id>
+    <published>2021-04-06T11:15:43+04:00</published>
+    <updated>2021-04-06T11:15:43+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/mango-golden-berries-chia-seeds-banana-bites"/>
+    <title>Mango Golden Berries Chia Seeds Banana Bites</title>
+    <s:type>Snack &gt; Fruit Bites</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/frutaynanay.png?v=1620639494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Snack &gt; Fruit Bites<br>
+        <strong>Price: </strong>
+            13.00 - 39.00
+            <a href="https://www.bycypher.com/products/mango-golden-berries-chia-seeds-banana-bites">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Snackwell is 100% natural fruit-based. That means it ZERO added sugar, ZERO preservatives, ZERO artificial colouring, and ZERO guilt!</span></p>
+<p> </p>
+<p align="center"><span>Once you buy a Snackwell product, you know that you are getting one that is harvested with love with an appreciation for coffee, while supporting fair trade and the community of coffee producers all around the world.</span></p>
+<p><span style="color: #ffd600;" data-mce-style="color: #ffd600;"><strong>COUNTRY OF ORIGIN:</strong></span><br>Ecuador</p>
+<p><span style="color: #ffd600;" data-mce-style="color: #ffd600;"><strong>INGREDIENTS:</strong></span><br>Dried banana, dried golden berries, dried mango, chia seeds, banana powder</p>
+<p><span style="color: #ffd600;" data-mce-style="color: #ffd600;"><strong>STORAGE INSTRUCTIONS:</strong></span><br>Keep tightly closed, store in a cool and dry place</p>
+<p> </p>
+<p><br><br><br><br><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banacoco</s:tag>
+    <s:tag>banana</s:tag>
+    <s:tag>Ecuador</s:tag>
+    <s:tag>fruity snacks</s:tag>
+    <s:tag>SnackWell products</s:tag>
+    <s:tag>SnackWell Produts</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6550985441355</id>
+      <title>50g</title>
+      <s:price currency="AED">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6550985441355</id>
+      <title>200g</title>
+      <s:price currency="AED">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4517520113739</id>
+    <published>2020-04-12T10:01:00+04:00</published>
+    <updated>2020-04-12T10:01:00+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/banacoco"/>
+    <title>BANANA CACAO BITES</title>
+    <s:type>Snack &gt; Fruit Bites</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/BANACOCO.png?v=1620636326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Snack &gt; Fruit Bites<br>
+        <strong>Price: </strong>
+            13.00 - 39.00
+            <a href="https://www.bycypher.com/products/banacoco">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Snackwell is 100% natural fruit-based. That means it ZERO added sugar, ZERO preservatives, ZERO artificial colouring, and ZERO guilt!</span></p>
+<p> </p>
+<p align="center"><span>Once you buy a Snackwell product, you know that you are getting one that is harvested with love with an appreciation for coffee, while supporting fair trade and the community of coffee producers all around the world.</span></p>
+<p><span style="color: #ffd600;"><strong>COUNTRY OF ORIGIN:</strong></span><br>Ecuador</p>
+<p><span style="color: #ffd600;"><strong>INGREDIENTS:</strong></span><br>Dried banana, cacao beans, banana powder</p>
+<p><span style="color: #ffd600;"><strong>STORAGE INSTRUCTIONS:</strong></span><br>Keep tightly closed, store in a cool and dry place</p>
+<p> </p>
+<p><br><br><br><br><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banacoco</s:tag>
+    <s:tag>banana</s:tag>
+    <s:tag>Ecuador</s:tag>
+    <s:tag>fruity snacks</s:tag>
+    <s:tag>SnackWell products</s:tag>
+    <s:tag>SnackWell Produts</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4517520113739</id>
+      <title>50g</title>
+      <s:price currency="AED">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4517520113739</id>
+      <title>200g</title>
+      <s:price currency="AED">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4517501829195</id>
+    <published>2020-04-12T09:32:00+04:00</published>
+    <updated>2020-04-12T09:32:00+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/banana-spears"/>
+    <title>BANANA SPEARS</title>
+    <s:type>Snack &gt; Fruit Bites</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Yelloww_9357cdc9-b59c-4a43-a8f7-c3c54f675674.png?v=1620639011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Snack &gt; Fruit Bites<br>
+        <strong>Price: </strong>
+            12.00 - 36.00
+            <a href="https://www.bycypher.com/products/banana-spears">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Snackwell is 100% natural fruit-based. That means it ZERO added sugar, ZERO preservatives, ZERO artificial colouring, and ZERO guilt!<br></p>
+<p> </p>
+<p align="center"><span>Once you buy a Snackwell product, you know that you are getting one that is harvested with love with an appreciation for coffee, while supporting fair trade and the community of coffee producers all around the world.</span></p>
+<p> </p>
+<p><span style="color: #ffd600;"><strong>COUNTRY OF ORIGIN:</strong></span><br>Ecuador </p>
+<p><span style="color: #ffd600;"><strong>INGREDIENTS:</strong></span><br>Dried banana, banana powder</p>
+<p><span style="color: #ffd600;"><strong>STORAGE INSTRUCTIONS:</strong></span><br>Keep tightly closed, store in a cool and dry place</p>
+<p><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banana</s:tag>
+    <s:tag>Ecuador</s:tag>
+    <s:tag>fruity snacks</s:tag>
+    <s:tag>Simplyfruta</s:tag>
+    <s:tag>SnackWell products</s:tag>
+    <s:tag>SnackWell Produts</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4517501829195</id>
+      <title>50g</title>
+      <s:price currency="AED">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4517501829195</id>
+      <title>200g</title>
+      <s:price currency="AED">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4516681973835</id>
+    <published>2020-04-12T09:32:00+04:00</published>
+    <updated>2020-04-12T09:32:00+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/mango-pineapple-cacao-golden-berries-banana-bites"/>
+    <title>Mango Pineapple Cacao Golden Berries Banana Bites</title>
+    <s:type>Fruity Snacks</s:type>
+    <s:vendor>Cypher Roastary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/GREEN_5d1173c3-c446-4d28-9df7-0d0e913d3682.png?v=1620289404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastary<br>
+        <strong>Type: </strong>Fruity Snacks<br>
+        <strong>Price: </strong>
+            13.00 - 39.00
+            <a href="https://www.bycypher.com/products/mango-pineapple-cacao-golden-berries-banana-bites">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Snackwell is 100% natural fruit-based. That means it ZERO added sugar, ZERO preservatives, ZERO artificial colouring, and ZERO guilt!</span></p>
+<p> </p>
+<p align="center"><span>Once you buy a Snackwell product, you know that you are getting one that is harvested with love with an appreciation for coffee, while supporting fair trade and the community of coffee producers all around the world.</span></p>
+<p><span style="color: #ffd600;"><strong>COUNTRY OF ORIGIN:</strong></span><br>Ecuador </p>
+<p><span style="color: #ffd600;"><strong>INGREDIENTS:</strong></span><br><span>Dried banana, dried mango, c</span><span>acao beans, dried pineapple, d</span><span>ried golden berries, banana powder</span><br></p>
+<p><span style="color: #ffd600;"><strong>STORAGE INSTRUCTIONS:</strong></span><br>Keep tightly closed, store in a cool and dry place</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banana</s:tag>
+    <s:tag>cacao</s:tag>
+    <s:tag>Ecuador</s:tag>
+    <s:tag>fruity snacks</s:tag>
+    <s:tag>Frutananay</s:tag>
+    <s:tag>SnackWell products</s:tag>
+    <s:tag>SnackWell Produts</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4516681973835</id>
+      <title>50g</title>
+      <s:price currency="AED">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4516681973835</id>
+      <title>200g</title>
+      <s:price currency="AED">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

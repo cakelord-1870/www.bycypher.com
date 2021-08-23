@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.bycypher.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.bycypher.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.bycypher.com/collections/nabtih.atom"/>
+  <title>Cypher Roastery</title>
+  <updated>2021-06-10T00:11:42+04:00</updated>
+  <author>
+    <name>Cypher Roastery</name>
+  </author>
+  <entry>
+    <id>https://www.bycypher.com/products/6576686465099</id>
+    <published>2021-06-10T00:11:42+04:00</published>
+    <updated>2021-06-10T00:11:42+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/mastiqua"/>
+    <title>Mastiqua</title>
+    <s:type>Plants</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/MASTIQUE.png?v=1623269423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Plants<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;" data-mce-style="text-align: center;">This naturally-flavoured Mastiha water is a product of the distillation of pure Mastic, using steam.</p>
+<ul>
+<li>No Sugar added</li>
+<li>No Preservatives added</li>
+<li>No Artificial flavour or color</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6576686465099</id>
+      <title>Plain 330ml</title>
+      <s:price currency="AED">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>330000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6563229237323</id>
+    <published>2021-05-10T15:55:42+04:00</published>
+    <updated>2021-05-10T15:55:42+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/prima-cobana"/>
+    <title>Prima Cobana</title>
+    <s:type>Cardamom</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Primacobana.png?v=1620647707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Cardamom<br>
+        <strong>Price: </strong>
+            24.00 - 245.00
+            <a href="https://www.bycypher.com/products/prima-cobana">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #36d2a2;" data-mce-style="color: #36d2a2;"><strong><br></strong></span></h3>
+<h3><span style="color: #1c2999;" data-mce-style="color: #36d2a2;"><strong>FACTS</strong></span></h3>
+<p><strong>Origin</strong>: Guatemala</p>
+<p><strong>Type of Cardamom:</strong> Large</p>
+<p> </p>
+<h3><span style="color: #36d2a2;" data-mce-style="color: #36d2a2;"><strong></strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563229237323</id>
+      <title>100g</title>
+      <s:price currency="AED">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563229237323</id>
+      <title>200g</title>
+      <s:price currency="AED">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563229237323</id>
+      <title>1kg</title>
+      <s:price currency="AED">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6563223601227</id>
+    <published>2021-05-10T15:19:35+04:00</published>
+    <updated>2021-05-10T15:19:35+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/blanca"/>
+    <title>Blanca</title>
+    <s:type>Cardamom</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/BLANCAA.png?v=1620728030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Cardamom<br>
+        <strong>Price: </strong>
+            22.00 - 230.00
+            <a href="https://www.bycypher.com/products/blanca">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #36d2a2;" data-mce-style="color: #36d2a2;"><strong><br></strong></span></h3>
+<h3><span style="color: #1c2999;" data-mce-style="color: #36d2a2;"><strong>FACTS</strong></span></h3>
+<p><strong>Origin</strong>: Guatemala</p>
+<p><strong>Type of Cardamom:</strong> Light green</p>
+<p> </p>
+<h3><span style="color: #36d2a2;" data-mce-style="color: #36d2a2;"><strong></strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563223601227</id>
+      <title>100g</title>
+      <s:price currency="AED">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563223601227</id>
+      <title>200g</title>
+      <s:price currency="AED">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563223601227</id>
+      <title>1kg</title>
+      <s:price currency="AED">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6563221536843</id>
+    <published>2021-05-10T15:16:12+04:00</published>
+    <updated>2021-05-10T15:16:12+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/don-pedro"/>
+    <title>Don Pedro</title>
+    <s:type>Cardamom</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/DON123.png?v=1620729404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Cardamom<br>
+        <strong>Price: </strong>
+            35.00 - 350.00
+            <a href="https://www.bycypher.com/products/don-pedro">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #36d2a2;" data-mce-style="color: #36d2a2;"><strong><br></strong></span></h3>
+<h3><span style="color: #36d2a2;" data-mce-style="color: #36d2a2;"><strong>FACTS</strong></span></h3>
+<p><strong>Origin</strong>: Guatemala</p>
+<p><strong>Type of Cardamom:</strong> Extra Jumbo</p>
+<p> </p>
+<h3><span style="color: #36d2a2;" data-mce-style="color: #36d2a2;"><strong></strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563221536843</id>
+      <title>100g</title>
+      <s:price currency="AED">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563221536843</id>
+      <title>200g</title>
+      <s:price currency="AED">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563221536843</id>
+      <title>1kg</title>
+      <s:price currency="AED">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/6563207708747</id>
+    <published>2021-05-10T15:03:42+04:00</published>
+    <updated>2021-05-10T15:03:42+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/chico"/>
+    <title>Chico</title>
+    <s:type>Cardamom</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/CHICO1.png?v=1620723939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Cardamom<br>
+        <strong>Price: </strong>
+            23.00 - 230.00
+            <a href="https://www.bycypher.com/products/chico">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #36d2a2;" data-mce-style="color: #36d2a2;"><strong><br></strong></span></h3>
+<h3><span style="color: #1c2999;" data-mce-style="color: #36d2a2;"><strong>FACTS</strong></span></h3>
+<p><strong>Origin</strong>: Guatemala</p>
+<p><strong>Type of Cardamom: </strong>Medium</p>
+<p> </p>
+<h3><span style="color: #36d2a2;" data-mce-style="color: #36d2a2;"><strong></strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563207708747</id>
+      <title>100g</title>
+      <s:price currency="AED">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563207708747</id>
+      <title>200g</title>
+      <s:price currency="AED">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bycypher.com/products/6563207708747</id>
+      <title>1kg</title>
+      <s:price currency="AED">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4735157993547</id>
+    <published>2021-02-09T16:42:19+04:00</published>
+    <updated>2021-02-09T16:42:19+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/grocery-shopping-bag"/>
+    <title>Grocery shopping bag</title>
+    <s:type>Recycled Bag</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/nabtihbagWebsiteTemplate.png?v=1612875160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Recycled Bag<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #34669e;"><strong>IT'S DURABLE, REUSABLE, ECO-FRIENDLY, AND EASY TO RECYCLE</strong></span></p>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">It is an environmentally sustainable grocery bag.<br>You can use it for grocery shopping, or have it as a pot for your plant, whatever</div>
+<div style="text-align: center;">floats your boat!</div>
+<div style="text-align: center;">   we have the perfect bag for you!</div>
+<div style="text-align: center;"> </div>
+<p><b>Dimensions</b>: 33.5/23/23 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4735157993547</id>
+      <title>Default Title</title>
+      <s:price currency="AED">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4715904270411</id>
+    <published>2020-12-21T11:18:47+04:00</published>
+    <updated>2020-12-21T11:18:47+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/christmas-bottle-bag"/>
+    <title>Nabtih bottle bag</title>
+    <s:type>Recycled Bag</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/2_infront.png?v=1608443443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Recycled Bag<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #34669e;"><strong>IT'S DURABLE, REUSABLE, ECO-FRIENDLY, AND EASY TO RECYCLE</strong></span></p>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">It is an environmentally sustainable bottle bag.<br>We first designed it for our Nabtih olive oil bags, and we fell in love with it! So we decided to share it with the world.<br>You can use it for water bottles, cold brew, olive oil, beverages, whatever</div>
+<div style="text-align: center;">floats your boat!</div>
+<div style="text-align: center;">If your festive gift to your loved ones comes in a shape of a bottle,                             we have the perfect bag for you!</div>
+<div style="text-align: center;"> </div>
+<p><strong>Dimentions</strong>: 32cmx19cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4715904270411</id>
+      <title>Default Title</title>
+      <s:price currency="AED">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4716100124747</id>
+    <published>2020-12-21T10:18:08+04:00</published>
+    <updated>2020-12-21T10:18:08+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/oregano"/>
+    <title>Oregano</title>
+    <s:type>Plants</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Oregano.png?v=1608536458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Plants<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #316bab;"><strong>IT'S DURABLE &amp; ECO-FRIENDLY</strong></span></p>
+<p>Our coffee beans come in huge bags we call them jute bags. We recycle those jute bags into pots for edible herbal plants.</p>
+<p><span style="color: #345da8;"><strong>FACTS</strong></span></p>
+<p><strong data-mce-fragment="1">Origin</strong>: Mediterranean/ W<span data-mce-fragment="1">estern Asia</span><span data-mce-fragment="1"></span><span data-mce-fragment="1"></span></p>
+<p><strong>Family</strong>: Labiatae/ Lamiaceae</p>
+<p><strong>Flower Color</strong>: W<span data-mce-fragment="1">hite, Pink, Pale Purple</span><span data-mce-fragment="1"></span></p>
+<p><strong>Water Requirement</strong>: Medium</p>
+<p><strong>PH Level</strong>: Basic</p>
+<p><strong>Growth Rate</strong>: Medium</p>
+<p><strong>Fragrance</strong>: Yes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4716100124747</id>
+      <title>Default Title</title>
+      <s:price currency="AED">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4715904106571</id>
+    <published>2020-12-20T16:02:32+04:00</published>
+    <updated>2020-12-20T16:02:32+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/rosemary"/>
+    <title>Rosemary</title>
+    <s:type>Plants</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/rosemary.png?v=1608441324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Plants<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #356aa6;"><strong>IT'S DURABLE &amp; ECO-FRIENDLY</strong></span></p>
+<p>Our coffee beans come in huge bags we call them jute bags. We recycle those jute bags into pots for edible herbal plants.</p>
+<h3><span style="color: #345da8;"><strong></strong></span></h3>
+<h3><span style="color: #345da8;"><strong>FACTS</strong></span></h3>
+<p><strong>Origin</strong>: Mediterranean</p>
+<p><strong>Family</strong>: Labiatae/ Lamiaceae</p>
+<p><strong>Flower Color</strong>: Blue</p>
+<p><strong>Water Requirement</strong>: Medium</p>
+<p><strong>PH Level</strong>: Basic</p>
+<p><strong>Growth Rate</strong>: Slow</p>
+<p><strong>Fragrance</strong>: Yes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4715904106571</id>
+      <title>Default Title</title>
+      <s:price currency="AED">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4715904041035</id>
+    <published>2020-12-20T16:02:20+04:00</published>
+    <updated>2020-12-20T16:02:20+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/mint"/>
+    <title>Mint</title>
+    <s:type>Plants</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/Mint.png?v=1608468998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Plants<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #2c639f;"><strong>IT'S DURABLE &amp; ECO-FRIENDLY</strong></span></p>
+<p>Our coffee beans come in huge bags we call them jute bags. We recycle those jute bags into pots for edible herbal plants.</p>
+<h3><span style="color: #345da8;"><strong></strong></span></h3>
+<h3><span style="color: #345da8;"><strong>FACTS</strong></span></h3>
+<p><strong>Origin</strong>: Eurasia, North America, southern Africa</p>
+<p><strong>Family</strong>: Lamiaceae</p>
+<p><strong>Flower Color</strong>: White to Purple</p>
+<p><strong>Water Requirement</strong>: Medium</p>
+<p><strong>PH Level</strong>: Basic</p>
+<p><strong>Growth Rate</strong>: Fast</p>
+<p><strong>Fragrance</strong>: Yes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4715904041035</id>
+      <title>Default Title</title>
+      <s:price currency="AED">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bycypher.com/products/4715903975499</id>
+    <published>2020-12-20T16:02:13+04:00</published>
+    <updated>2020-12-20T16:02:13+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bycypher.com/products/basil"/>
+    <title>Basil</title>
+    <s:type>Plants</s:type>
+    <s:vendor>Cypher Roastery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1857/4371/products/basill.png?v=1608441137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cypher Roastery<br>
+        <strong>Type: </strong>Plants<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #365ea6;"><strong>IT'S DURABLE &amp; ECO-FRIENDLY</strong></span></p>
+<p>Our coffee beans come in huge bags we call them jute bags. We recycle those jute bags into pots for edible herbal plants.</p>
+<p> </p>
+<h3><span style="color: #345da8;"><strong></strong></span></h3>
+<h3><span style="color: #345da8;"><strong>FACTS</strong></span></h3>
+<p><strong data-mce-fragment="1">Origin</strong>: Asia, Mediterranean</p>
+<p><strong>Family</strong>: Labiatae/ Lamiaceae</p>
+<p><strong>Flower Color</strong>: White</p>
+<p><strong>Water Requirement</strong>: Medium</p>
+<p><strong>PH Level</strong>: Basic</p>
+<p><strong>Growth Rate</strong>: Medium</p>
+<p><strong>Fragrance</strong>: Yes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nabtih</s:tag>
+    <s:variant>
+      <id>https://www.bycypher.com/products/4715903975499</id>
+      <title>Default Title</title>
+      <s:price currency="AED">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
